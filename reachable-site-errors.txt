@@ -1,11 +1,21 @@
-https://iko.soy cound not be reached
-https://mxmarin.ca cound not be reached
-https://dom.ink cound not be reached
-http://controls.ee cound not be reached
-https://oppen.digital cound not be reached
-https://uonai.space cound not be reached
-https://ameyama.com cound not be reached
-https://kor.nz cound not be reached
-https://0l.wtf cound not be reached
-https://voidjumper.glass cound not be reached
-https://provokeanalog.com cound not be reached
+https://uonai.space: took longer then 30 sec to respond
+http://controls.ee: Error: certificate has expired
+https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 404
+https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
+https://t.seed.hex22.org/twtxt.txt: took longer then 30 sec to respond
+https://tom.so: took longer then 30 sec to respond
+http://www.jameschip.io/index.xml: Error: Request failed with status code 404
+https://aklsh.now.sh: took longer then 30 sec to respond
+https://0xff.nu/feed.xml: Error: Request failed with status code 404
+https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
+https://fdisk.space/rss.xml: Error: Request failed with status code 404
+https://mxmarin.ca: Error: Request failed with status code 412
+https://0l.wtf: took longer then 30 sec to respond
+https://0l.wtf/rss.xml: took longer then 30 sec to respond
+https://0l.wtf/twtxt.txt: took longer then 30 sec to respond
+https://dom.ink: Error: Request failed with status code 402
+https://dom.ink/tw.txt: Error: Request failed with status code 402
+https://oppen.digital: Error: getaddrinfo EAI_AGAIN oppen.digital
+https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
+https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
+https://voidjumper.glass: took longer then 30 sec to respond
