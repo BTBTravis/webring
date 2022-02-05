@@ -1,10 +1,11 @@
+https://uonai.space: took longer then 30 sec to respond
 http://controls.ee: Error: certificate has expired
-https://ameyama.com: took longer then 30 sec to respond
 https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 404
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
-https://gndclouds.cc: took longer then 30 sec to respond
-https://t.seed.hex22.org/twtxt.txt: took longer then 30 sec to respond
-https://www.madewithtea.com: took longer then 30 sec to respond
+https://hex22.org: took longer then 30 sec to respond
+https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 139757672798080:error:14094438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1544:SSL alert number 80
+
+https://tom.so: took longer then 30 sec to respond
 http://www.jameschip.io/index.xml: Error: Request failed with status code 404
 https://0xff.nu/feed.xml: Error: Request failed with status code 404
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
@@ -15,6 +16,7 @@ https://0l.wtf/rss.xml: took longer then 30 sec to respond
 https://0l.wtf/twtxt.txt: took longer then 30 sec to respond
 https://dom.ink: Error: Request failed with status code 402
 https://dom.ink/tw.txt: Error: Request failed with status code 402
+https://eric.jetzt: Error: getaddrinfo EAI_AGAIN eric.jetzt
 https://oppen.digital: Error: getaddrinfo EAI_AGAIN oppen.digital
 https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
 https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
