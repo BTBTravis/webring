@@ -1,11 +1,11 @@
 https://anxl.faith: Error: getaddrinfo ENOTFOUND anxl.faith
-https://shaneckel.com: took longer then 30 sec to respond
 http://controls.ee: Error: certificate has expired
+https://inns.studio: took longer then 30 sec to respond
 https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 404
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
-https://t.seed.hex22.org/twtxt.txt: took longer then 30 sec to respond
-https://patrikarvidsson.com: took longer then 30 sec to respond
-https://tom.so: took longer then 30 sec to respond
+https://gndclouds.cc: took longer then 30 sec to respond
+https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140038876477312:error:14094438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1544:SSL alert number 80
+
 http://www.jameschip.io/index.xml: Error: Request failed with status code 404
 https://0xff.nu/feed.xml: Error: Request failed with status code 404
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
