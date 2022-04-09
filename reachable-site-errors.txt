@@ -1,18 +1,13 @@
 https://anxl.faith: Error: connect ECONNREFUSED 34.77.10.20:443
 http://controls.ee: Error: certificate has expired
 https://inns.studio: took longer then 30 sec to respond
-https://ameyama.com: took longer then 30 sec to respond
 https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 404
-https://maxdeviant.com: took longer then 30 sec to respond
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
-https://gndclouds.cc: took longer then 30 sec to respond
 https://t.seed.hex22.org/twtxt.txt: took longer then 30 sec to respond
 https://patrikarvidsson.com: took longer then 30 sec to respond
-https://tom.so: took longer then 30 sec to respond
 https://dotcomboom.somnolescent.net/: Error: self signed certificate
 https://dotcomboom.somnolescent.net/twtxt.txt: Error: self signed certificate
 http://www.jameschip.io/index.xml: Error: Request failed with status code 404
-https://aklsh.now.sh: took longer then 30 sec to respond
 https://0xff.nu/feed.xml: Error: Request failed with status code 404
 https://solquemal.com/: Error: getaddrinfo ENOTFOUND solquemal.com
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
