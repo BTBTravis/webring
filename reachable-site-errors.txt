@@ -1,16 +1,18 @@
 https://anxl.faith: Error: connect ECONNREFUSED 34.77.10.20:443
+https://uonai.space: took longer then 30 sec to respond
 http://controls.ee: Error: certificate has expired
-https://inns.studio: took longer then 30 sec to respond
 https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 404
+https://maxdeviant.com: took longer then 30 sec to respond
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
-https://t.seed.hex22.org/twtxt.txt: took longer then 30 sec to respond
-https://patrikarvidsson.com: took longer then 30 sec to respond
+https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140531282573184:error:14094438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1544:SSL alert number 80
+
 https://dotcomboom.somnolescent.net/: Error: self signed certificate
 https://dotcomboom.somnolescent.net/twtxt.txt: Error: self signed certificate
 http://www.jameschip.io/index.xml: Error: Request failed with status code 404
 https://0xff.nu/feed.xml: Error: Request failed with status code 404
 https://solquemal.com/: Error: getaddrinfo ENOTFOUND solquemal.com
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
+https://matildepark.ca: took longer then 30 sec to respond
 https://fdisk.space/rss.xml: Error: Request failed with status code 404
 https://mxmarin.ca: Error: Request failed with status code 412
 https://0l.wtf: Error: connect ECONNREFUSED 54.193.216.223:443
