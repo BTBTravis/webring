@@ -1,10 +1,11 @@
 https://anxl.faith: Error: connect ECONNREFUSED 34.77.10.20:443
-https://shaneckel.com: took longer then 30 sec to respond
+https://uonai.space: took longer then 30 sec to respond
 http://controls.ee: Error: certificate has expired
-https://ameyama.com: took longer then 30 sec to respond
+https://inns.studio: took longer then 30 sec to respond
 https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 404
+https://maxdeviant.com: took longer then 30 sec to respond
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
-https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140560470243200:error:14094438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1544:SSL alert number 80
+https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 139879087277952:error:14094438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1544:SSL alert number 80
 
 https://gueorgui.net: Error: connect ECONNREFUSED 162.255.119.107:443
 https://gueorgui.net/feed.xml: Error: connect ECONNREFUSED 162.255.119.107:443
@@ -17,11 +18,11 @@ https://www.juliendesrosiers.com/feed.xml: Error: Request failed with status cod
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
 https://fdisk.space/rss.xml: Error: Request failed with status code 404
 https://mxmarin.ca: Error: Request failed with status code 412
+https://weakty.com: took longer then 30 sec to respond
 https://0l.wtf: took longer then 30 sec to respond
 https://0l.wtf/rss.xml: took longer then 30 sec to respond
 https://0l.wtf/twtxt.txt: took longer then 30 sec to respond
-https://eric.jetzt: took longer then 30 sec to respond
-https://oppen.digital: Error: getaddrinfo EAI_AGAIN oppen.digital
+https://oppen.digital: took longer then 30 sec to respond
 https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
 https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
 https://voidjumper.glass: Error: connect ECONNREFUSED 188.166.117.115:443
