@@ -1,16 +1,18 @@
+https://avanier.studio/tw.txt: took longer then 30 sec to respond
 https://anxl.faith: Error: connect ECONNREFUSED 34.77.10.20:443
 http://controls.ee: Error: certificate has expired
-https://ameyama.com/blog/rss.xml: took longer then 30 sec to respond
+https://inns.studio: took longer then 30 sec to respond
 https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 404
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
 https://t.seed.hex22.org/twtxt.txt: took longer then 30 sec to respond
+https://kor.nz: took longer then 30 sec to respond
 https://gueorgui.net: Error: connect ECONNREFUSED 162.255.119.107:443
 https://gueorgui.net/feed.xml: Error: connect ECONNREFUSED 162.255.119.107:443
 https://dotcomboom.somnolescent.net/: Error: self signed certificate
 https://dotcomboom.somnolescent.net/twtxt.txt: Error: self signed certificate
 http://www.jameschip.io/index.xml: Error: Request failed with status code 404
 https://0xff.nu/feed.xml: Error: Request failed with status code 404
-https://amorphic.space: took longer then 30 sec to respond
+https://www.materialfuture.net/rss.xml: took longer then 30 sec to respond
 https://solquemal.com/: Error: getaddrinfo ENOTFOUND solquemal.com
 https://www.juliendesrosiers.com/feed.xml: Error: Request failed with status code 500
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
