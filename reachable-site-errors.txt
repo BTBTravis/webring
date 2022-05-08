@@ -2,13 +2,15 @@ https://anxl.faith: Error: connect ECONNREFUSED 34.77.10.20:443
 http://controls.ee: Error: certificate has expired
 https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 404
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
-https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140527228315520:error:14094438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1544:SSL alert number 80
+https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 139929630848896:error:14094438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1544:SSL alert number 80
 
 https://gueorgui.net: Error: connect ECONNREFUSED 162.255.119.107:443
 https://gueorgui.net/feed.xml: Error: connect ECONNREFUSED 162.255.119.107:443
 https://dotcomboom.somnolescent.net/twtxt.txt: Error: Request failed with status code 404
 http://www.jameschip.io/index.xml: Error: Request failed with status code 404
 https://0xff.nu/feed.xml: Error: Request failed with status code 404
+http://xj-ix.luxe: Error: Request failed with status code 503
+http://xj-ix.luxe/feed.atom: Error: Request failed with status code 503
 https://solquemal.com/: Error: getaddrinfo EAI_AGAIN solquemal.com
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
 https://fdisk.space/rss.xml: Error: Request failed with status code 404
@@ -18,6 +20,6 @@ https://0l.wtf/rss.xml: took longer then 30 sec to respond
 https://0l.wtf/twtxt.txt: took longer then 30 sec to respond
 https://oppen.digital: Error: getaddrinfo EAI_AGAIN oppen.digital
 https://wilde-at-heart.garden: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: wilde-at-heart.garden. is not in the cert's altnames: DNS:*.github.com, DNS:www.github.com, DNS:github.io, DNS:github.com, DNS:*.github.io, DNS:githubusercontent.com, DNS:*.githubusercontent.com
-https://wilde-at-heart.garden/txtwt.txt: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: wilde-at-heart.garden. is not in the cert's altnames: DNS:*.netlify.app, DNS:netlify.app
-https://wilde-at-heart.garden/notes/feed.xml: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: wilde-at-heart.garden. is not in the cert's altnames: DNS:*.netlify.app, DNS:netlify.app
+https://wilde-at-heart.garden/txtwt.txt: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: wilde-at-heart.garden. is not in the cert's altnames: DNS:*.github.com, DNS:www.github.com, DNS:github.io, DNS:github.com, DNS:*.github.io, DNS:githubusercontent.com, DNS:*.githubusercontent.com
+https://wilde-at-heart.garden/notes/feed.xml: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: wilde-at-heart.garden. is not in the cert's altnames: DNS:*.github.com, DNS:www.github.com, DNS:github.io, DNS:github.com, DNS:*.github.io, DNS:githubusercontent.com, DNS:*.githubusercontent.com
 https://voidjumper.glass: Error: connect ECONNREFUSED 188.166.117.115:443
