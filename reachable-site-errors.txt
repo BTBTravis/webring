@@ -1,25 +1,59 @@
+http://estevancarlos.com: took longer then 30 sec to respond
 https://anxl.faith: Error: connect ECONNREFUSED 34.77.10.20:443
-http://controls.ee: Error: certificate has expired
+http://chigby.org: took longer then 30 sec to respond
+http://controls.ee: took longer then 30 sec to respond
+http://kokorobot.ca: took longer then 30 sec to respond
+http://bildwissenschaft.vortok.info: took longer then 30 sec to respond
+https://aeriform.io: took longer then 30 sec to respond
 https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 404
+http://gytis.co: took longer then 30 sec to respond
+https://smidgeo.com/bots: took longer then 30 sec to respond
+https://magoz.is: took longer then 30 sec to respond
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
-https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 139929630848896:error:14094438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1544:SSL alert number 80
+https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140400391694208:error:14094438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1544:SSL alert number 80
 
+https://mboxed.github.io/sodatsu: took longer then 30 sec to respond
 https://gueorgui.net: Error: connect ECONNREFUSED 162.255.119.107:443
 https://gueorgui.net/feed.xml: Error: connect ECONNREFUSED 162.255.119.107:443
 https://dotcomboom.somnolescent.net/twtxt.txt: Error: Request failed with status code 404
-http://www.jameschip.io/index.xml: Error: Request failed with status code 404
+http://www.jameschip.io: took longer then 30 sec to respond
+http://www.jameschip.io/index.xml: took longer then 30 sec to respond
+https://provokeanalog.com: took longer then 30 sec to respond
+https://aklsh.now.sh: took longer then 30 sec to respond
 https://0xff.nu/feed.xml: Error: Request failed with status code 404
-http://xj-ix.luxe: Error: Request failed with status code 503
-http://xj-ix.luxe/feed.atom: Error: Request failed with status code 503
+https://simply.personal.jenett.org: took longer then 30 sec to respond
+https://simply.personal.jenett.org/feed: took longer then 30 sec to respond
+http://q.pfiffer.org/: took longer then 30 sec to respond
+http://q.pfiffer.org/feed.xml: took longer then 30 sec to respond
+https://www.materialfuture.net/rss.xml: took longer then 30 sec to respond
 https://solquemal.com/: Error: getaddrinfo EAI_AGAIN solquemal.com
+https://dampfkraft.com: took longer then 30 sec to respond
+https://dampfkraft.com/index.rss: took longer then 30 sec to respond
+https://awalvie.me: took longer then 30 sec to respond
+https://www.romainaubert.com/: took longer then 30 sec to respond
+https://www.romainaubert.com/twtxt.txt: took longer then 30 sec to respond
+https://www.romainaubert.com/feed.rss: took longer then 30 sec to respond
+https://www.juliendesrosiers.com/: took longer then 30 sec to respond
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
 https://fdisk.space/rss.xml: Error: Request failed with status code 404
 https://mxmarin.ca: Error: Request failed with status code 412
+https://www.milofultz.com: took longer then 30 sec to respond
 https://0l.wtf: took longer then 30 sec to respond
 https://0l.wtf/rss.xml: took longer then 30 sec to respond
 https://0l.wtf/twtxt.txt: took longer then 30 sec to respond
+https://rodrigofranco.com: took longer then 30 sec to respond
 https://oppen.digital: Error: getaddrinfo EAI_AGAIN oppen.digital
-https://wilde-at-heart.garden: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: wilde-at-heart.garden. is not in the cert's altnames: DNS:*.github.com, DNS:www.github.com, DNS:github.io, DNS:github.com, DNS:*.github.io, DNS:githubusercontent.com, DNS:*.githubusercontent.com
-https://wilde-at-heart.garden/txtwt.txt: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: wilde-at-heart.garden. is not in the cert's altnames: DNS:*.github.com, DNS:www.github.com, DNS:github.io, DNS:github.com, DNS:*.github.io, DNS:githubusercontent.com, DNS:*.githubusercontent.com
-https://wilde-at-heart.garden/notes/feed.xml: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: wilde-at-heart.garden. is not in the cert's altnames: DNS:*.github.com, DNS:www.github.com, DNS:github.io, DNS:github.com, DNS:*.github.io, DNS:githubusercontent.com, DNS:*.githubusercontent.com
+https://itwont.work: took longer then 30 sec to respond
+https://itwont.work/atom.xml: took longer then 30 sec to respond
+https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
+https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
 https://voidjumper.glass: Error: connect ECONNREFUSED 188.166.117.115:443
+https://pixouls.xyz: took longer then 30 sec to respond
+http://flower.codes: took longer then 30 sec to respond
+http://flower.codes/feed.xml: took longer then 30 sec to respond
+https://www.paritybit.ca: took longer then 30 sec to respond
+https://www.paritybit.ca/feed.xml: took longer then 30 sec to respond
+https://ryutaroikeda.ovh: took longer then 30 sec to respond
+https://ryutaroikeda.ovh/feed.rss: took longer then 30 sec to respond
+https://vladh.net: took longer then 30 sec to respond
+http://plastic-idolatry.com/erik: took longer then 30 sec to respond
