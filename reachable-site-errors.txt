@@ -1,20 +1,14 @@
-http://estevancarlos.com: took longer then 30 sec to respond
 https://kaemura.com: Error: Client network socket disconnected before secure TLS connection was established
 https://kaemura.com/twttxt.txt: Error: Client network socket disconnected before secure TLS connection was established
 https://anxl.faith: Error: connect ECONNREFUSED 34.77.10.20:443
-http://chigby.org: took longer then 30 sec to respond
-http://controls.ee: took longer then 30 sec to respond
-http://bildwissenschaft.vortok.info: took longer then 30 sec to respond
-https://aeriform.io: took longer then 30 sec to respond
+http://controls.ee: Error: certificate has expired
+http://nonmateria.com: Error: getaddrinfo EAI_AGAIN nonmateria.com
+http://nonmateria.com/rss.xml: Error: getaddrinfo EAI_AGAIN nonmateria.com
 https://underscorediscovery.ca: took longer then 30 sec to respond
 https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 404
-http://gytis.co: took longer then 30 sec to respond
-https://smidgeo.com/bots: took longer then 30 sec to respond
-https://magoz.is: took longer then 30 sec to respond
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
-https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140210827134848:error:14094438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1544:SSL alert number 80
+https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 139751582148480:error:14094438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1544:SSL alert number 80
 
-https://mboxed.github.io/sodatsu: took longer then 30 sec to respond
 http://www.miha-co.ca: Error: getaddrinfo ENOTFOUND www.miha-co.ca
 https://serocell.com: Error: unable to verify the first certificate
 https://serocell.com/feeds/serocell.xml: Error: unable to verify the first certificate
@@ -22,67 +16,23 @@ https://gueorgui.net: Error: connect ECONNREFUSED 162.255.119.107:443
 https://gueorgui.net/feed.xml: Error: connect ECONNREFUSED 162.255.119.107:443
 https://dotcomboom.somnolescent.net/: Error: self signed certificate
 https://dotcomboom.somnolescent.net/twtxt.txt: Error: self signed certificate
-http://www.jameschip.io: took longer then 30 sec to respond
-http://www.jameschip.io/index.xml: took longer then 30 sec to respond
-https://provokeanalog.com: took longer then 30 sec to respond
-https://aklsh.now.sh: took longer then 30 sec to respond
+http://www.jameschip.io/index.xml: Error: Request failed with status code 404
 https://0xff.nu/feed.xml: Error: Request failed with status code 404
-https://simply.personal.jenett.org: took longer then 30 sec to respond
-https://simply.personal.jenett.org/feed: took longer then 30 sec to respond
-http://q.pfiffer.org/: took longer then 30 sec to respond
-http://q.pfiffer.org/feed.xml: took longer then 30 sec to respond
-https://www.materialfuture.net/rss.xml: took longer then 30 sec to respond
 https://solquemal.com/: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: solquemal.com. is not in the cert's altnames: DNS:mutu20.syazen.net
-https://dampfkraft.com: took longer then 30 sec to respond
-https://dampfkraft.com/index.rss: took longer then 30 sec to respond
 https://awalvie.me: Error: getaddrinfo ENOTFOUND awalvie.me
-https://futuristan.io: took longer then 30 sec to respond
 https://www.romainaubert.com/: Error: Request failed with status code 404
 https://www.romainaubert.com/twtxt.txt: Error: Request failed with status code 404
 https://www.romainaubert.com/feed.rss: Error: Request failed with status code 404
-https://www.juliendesrosiers.com/: took longer then 30 sec to respond
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
 https://fdisk.space/rss.xml: Error: Request failed with status code 404
 https://mxmarin.ca: Error: Request failed with status code 412
-https://www.milofultz.com: took longer then 30 sec to respond
 https://milofultz.com/atom.xml: Error: Request failed with status code 404
 https://0l.wtf: took longer then 30 sec to respond
 https://0l.wtf/rss.xml: took longer then 30 sec to respond
 https://0l.wtf/twtxt.txt: took longer then 30 sec to respond
-https://eric.jetzt: took longer then 30 sec to respond
-https://tendigits.space: took longer then 30 sec to respond
-https://tendigits.space/feed.xml: took longer then 30 sec to respond
-https://sirtetris.com: took longer then 30 sec to respond
-https://rodrigofranco.com: took longer then 30 sec to respond
 https://oppen.digital: took longer then 30 sec to respond
-https://itwont.work: took longer then 30 sec to respond
-https://itwont.work/atom.xml: took longer then 30 sec to respond
-https://badd10de.dev: took longer then 30 sec to respond
-https://nilfm.cc: took longer then 30 sec to respond
-https://nilfm.cc/twtxt.txt: took longer then 30 sec to respond
-https://wilde-at-heart.garden: took longer then 30 sec to respond
-https://wilde-at-heart.garden/txtwt.txt: took longer then 30 sec to respond
-https://wilde-at-heart.garden/notes/feed.xml: took longer then 30 sec to respond
-https://voidjumper.glass: took longer then 30 sec to respond
-https://pixouls.xyz: took longer then 30 sec to respond
-https://embyr.sh: took longer then 30 sec to respond
-https://embyr.sh/index.xml: took longer then 30 sec to respond
-https://www.maxhaesslein.de: took longer then 30 sec to respond
-https://dyslexic.ink: took longer then 30 sec to respond
-https://compudanzas.net: took longer then 30 sec to respond
-https://compudanzas.net/tw.txt: took longer then 30 sec to respond
-https://compudanzas.net/atom.xml: took longer then 30 sec to respond
-https://yhnck.xyz: took longer then 30 sec to respond
-https://astrid.tech: took longer then 30 sec to respond
-https://astrid.tech/tw.txt: took longer then 30 sec to respond
-https://astrid.tech/atom.xml: took longer then 30 sec to respond
-http://flower.codes: took longer then 30 sec to respond
-http://flower.codes/feed.xml: took longer then 30 sec to respond
-https://noelle.dev: took longer then 30 sec to respond
-https://www.giacintocarlucci.it: took longer then 30 sec to respond
-https://www.paritybit.ca: took longer then 30 sec to respond
-https://www.paritybit.ca/feed.xml: took longer then 30 sec to respond
-https://ryutaroikeda.ovh: took longer then 30 sec to respond
-https://ryutaroikeda.ovh/feed.rss: took longer then 30 sec to respond
-https://vladh.net: took longer then 30 sec to respond
-http://plastic-idolatry.com/erik: took longer then 30 sec to respond
+https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
+https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
+https://voidjumper.glass: Error: connect ECONNREFUSED 188.166.117.115:443
+https://dyslexic.ink: Error: Request failed with status code 404
+https://ryutaroikeda.ovh/feed.rss: Error: Request failed with status code 404
