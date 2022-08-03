@@ -14,7 +14,7 @@ http://gytis.co: took longer then 30 sec to respond
 https://smidgeo.com/bots: took longer then 30 sec to respond
 https://magoz.is: took longer then 30 sec to respond
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
-https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 139743418890112:error:14094438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1544:SSL alert number 80
+https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140578187773824:error:14094438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1544:SSL alert number 80
 
 https://mboxed.github.io/sodatsu: took longer then 30 sec to respond
 http://www.miha-co.ca: Error: getaddrinfo ENOTFOUND www.miha-co.ca
@@ -52,13 +52,17 @@ https://milofultz.com/atom.xml: Error: Request failed with status code 404
 https://0l.wtf: took longer then 30 sec to respond
 https://0l.wtf/rss.xml: took longer then 30 sec to respond
 https://0l.wtf/twtxt.txt: took longer then 30 sec to respond
-https://eric.jetzt: took longer then 30 sec to respond
+https://clarity.flowers: took longer then 30 sec to respond
 https://rodrigofranco.com: took longer then 30 sec to respond
 https://oppen.digital: took longer then 30 sec to respond
 https://itwont.work: took longer then 30 sec to respond
 https://itwont.work/atom.xml: took longer then 30 sec to respond
-https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
-https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
+https://badd10de.dev: took longer then 30 sec to respond
+https://nilfm.cc: took longer then 30 sec to respond
+https://nilfm.cc/twtxt.txt: took longer then 30 sec to respond
+https://wilde-at-heart.garden: took longer then 30 sec to respond
+https://wilde-at-heart.garden/txtwt.txt: took longer then 30 sec to respond
+https://wilde-at-heart.garden/notes/feed.xml: took longer then 30 sec to respond
 https://voidjumper.glass: took longer then 30 sec to respond
 https://pixouls.xyz: took longer then 30 sec to respond
 https://embyr.sh: took longer then 30 sec to respond
