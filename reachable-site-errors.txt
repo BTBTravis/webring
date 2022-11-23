@@ -3,11 +3,9 @@ http://controls.ee: Error: certificate has expired
 https://underscorediscovery.ca: took longer then 30 sec to respond
 https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 404
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
-https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 139769586931584:error:14094438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1544:SSL alert number 80
+https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 139878215018368:error:14094438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1544:SSL alert number 80
 
 http://www.miha-co.ca: Error: getaddrinfo ENOTFOUND www.miha-co.ca
-https://serocell.com: Error: getaddrinfo EAI_AGAIN serocell.com
-https://serocell.com/feeds/serocell.xml: Error: getaddrinfo EAI_AGAIN serocell.com
 https://txt.eli.li/twtxt/twtxt.txt: Error: getaddrinfo ENOTFOUND txt.eli.li
 https://gueorgui.net: took longer then 30 sec to respond
 https://gueorgui.net/feed.xml: took longer then 30 sec to respond
@@ -27,7 +25,6 @@ https://aless.co/rss.xml: Error: Request failed with status code 404
 https://0l.wtf: took longer then 30 sec to respond
 https://0l.wtf/rss.xml: took longer then 30 sec to respond
 https://0l.wtf/twtxt.txt: took longer then 30 sec to respond
-https://everest-pipkin.com/: took longer then 30 sec to respond
 https://oppen.digital: took longer then 30 sec to respond
 https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
 https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
