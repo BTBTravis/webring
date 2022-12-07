@@ -1,13 +1,12 @@
-https://wiki.xxiivv.com: Error: connect ENETUNREACH 2606:50c0:8000::153:443 - Local (:::0)
-https://wiki.xxiivv.com/links/tw.txt: Error: connect ENETUNREACH 2606:50c0:8000::153:443 - Local (:::0)
 https://anxl.faith: Error: connect ECONNREFUSED 34.77.10.20:443
 http://controls.ee: Error: certificate has expired
 https://underscorediscovery.ca: Error: connect ECONNREFUSED 159.203.7.106:443
 https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 404
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
-https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140636402870144:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
+https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140335472736128:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
 
 http://www.miha-co.ca: Error: getaddrinfo ENOTFOUND www.miha-co.ca
+https://zanneth.com: Error: certificate has expired
 https://txt.eli.li/twtxt/twtxt.txt: Error: getaddrinfo ENOTFOUND txt.eli.li
 https://gueorgui.net: took longer then 30 sec to respond
 https://gueorgui.net/feed.xml: took longer then 30 sec to respond
@@ -27,7 +26,7 @@ https://aless.co/rss.xml: Error: Request failed with status code 404
 https://0l.wtf: took longer then 30 sec to respond
 https://0l.wtf/rss.xml: took longer then 30 sec to respond
 https://0l.wtf/twtxt.txt: took longer then 30 sec to respond
-https://oppen.digital: Error: getaddrinfo ENOTFOUND oppen.digital
+https://oppen.digital: took longer then 30 sec to respond
 https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
 https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
 https://dyslexic.ink: Error: Request failed with status code 404
