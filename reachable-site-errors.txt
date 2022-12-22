@@ -1,9 +1,9 @@
 https://anxl.faith: Error: connect ECONNREFUSED 34.77.10.20:443
 http://controls.ee: Error: certificate has expired
-https://underscorediscovery.ca: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: underscorediscovery.ca. is not in the cert's altnames: DNS:*.rna1.blindsidenetworks.com, DNS:rna1.blindsidenetworks.com
+https://underscorediscovery.ca: Error: connect ECONNREFUSED 159.203.7.106:443
 https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 404
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
-https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140433792653184:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
+https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 139909999835008:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
 
 http://www.miha-co.ca: Error: getaddrinfo ENOTFOUND www.miha-co.ca
 https://txt.eli.li/twtxt/twtxt.txt: Error: getaddrinfo ENOTFOUND txt.eli.li
