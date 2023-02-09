@@ -1,34 +1,46 @@
 https://anxl.faith: Error: getaddrinfo ENOTFOUND anxl.faith
+https://ellugar.co: Error: Request failed with status code 500
+https://2d4.dev: Error: Request failed with status code 500
+https://2d4.dev/tw.txt: Error: Request failed with status code 500
 http://controls.ee: Error: certificate has expired
 https://xarene.la: Error: getaddrinfo ENOTFOUND xarene.la
+https://alex.zyzhang.me: Error: Request failed with status code 500
 https://underscorediscovery.ca: Error: connect ECONNREFUSED 159.203.7.106:443
 https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 404
-https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
-https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140688117712768:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
+https://phse.net: Error: Request failed with status code 500
+https://phse.net/twtxt/merv.txt: Error: Request failed with status code 500
+https://phse.net/post/index.xml: Error: Request failed with status code 500
+https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140461036758912:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
 
 http://www.miha-co.ca: Error: getaddrinfo ENOTFOUND www.miha-co.ca
 https://txt.eli.li/twtxt/twtxt.txt: Error: getaddrinfo ENOTFOUND txt.eli.li
 https://gueorgui.net: took longer then 30 sec to respond
 https://gueorgui.net/feed.xml: took longer then 30 sec to respond
+https://www.tatecarson.com: Error: Request failed with status code 500
+https://azlen.me: Error: Request failed with status code 500
+https://cass.si: Error: Request failed with status code 500
 https://dotcomboom.somnolescent.net/: Error: self signed certificate
 https://dotcomboom.somnolescent.net/twtxt.txt: Error: self signed certificate
 https://sixey.es/feed.xml: Error: Request failed with status code 404
 http://www.jameschip.io/index.xml: Error: Request failed with status code 404
+https://provokeanalog.com: Error: Request failed with status code 500
 https://aklsh.now.sh: Error: Request failed with status code 404
 https://0xff.nu/feed.xml: Error: Request failed with status code 404
 https://system32.simone.computer/rss.xml: took longer then 30 sec to respond
+https://amorphic.space: Error: Request failed with status code 500
+https://www.edwinwenink.xyz: Error: Request failed with status code 500
 https://solquemal.com/: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: solquemal.com. is not in the cert's altnames: DNS:i-diet.fr, DNS:www.i-diet.fr
 https://www.romainaubert.com/: Error: Request failed with status code 404
 https://www.romainaubert.com/twtxt.txt: Error: Request failed with status code 404
 https://www.romainaubert.com/feed.rss: Error: Request failed with status code 404
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
+https://matildepark.ca: Error: Request failed with status code 500
 https://milofultz.com/atom.xml: Error: Request failed with status code 404
 https://garden.tymon-zaniewski.xyz/: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: garden.tymon-zaniewski.xyz. is not in the cert's altnames: DNS:*.xserver.jp, DNS:xserver.jp
 https://0l.wtf: took longer then 30 sec to respond
 https://0l.wtf/rss.xml: took longer then 30 sec to respond
 https://0l.wtf/twtxt.txt: took longer then 30 sec to respond
-https://hugo.soucy.cc: Error: certificate has expired
-https://hugo.soucy.cc/index.xml: Error: certificate has expired
+https://njoqi.me: Error: getaddrinfo EAI_AGAIN njoqi.me
 https://oppen.digital: Error: getaddrinfo ENOTFOUND oppen.digital
 https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
 https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
