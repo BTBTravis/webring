@@ -1,34 +1,81 @@
+https://wiki.xxiivv.com: Error: getaddrinfo EAI_AGAIN wiki.xxiivv.com
+https://wiki.xxiivv.com/links/tw.txt: Error: getaddrinfo EAI_AGAIN wiki.xxiivv.com
+https://wiki.xxiivv.com/links/rss.xml: Error: getaddrinfo EAI_AGAIN wiki.xxiivv.com
+http://estevancarlos.com: took longer then 30 sec to respond
+https://kaemura.com: took longer then 30 sec to respond
+https://bismuth.garden/feed.xml: took longer then 30 sec to respond
 https://anxl.faith: Error: getaddrinfo ENOTFOUND anxl.faith
-http://controls.ee: Error: certificate has expired
+http://chigby.org: took longer then 30 sec to respond
+http://controls.ee: took longer then 30 sec to respond
 https://xarene.la: Error: getaddrinfo ENOTFOUND xarene.la
+http://bildwissenschaft.vortok.info: took longer then 30 sec to respond
+https://aeriform.io: took longer then 30 sec to respond
 https://underscorediscovery.ca: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: underscorediscovery.ca. is not in the cert's altnames: DNS:sign1.iatelecom.ca
 https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 500
+http://gytis.co: took longer then 30 sec to respond
 https://mmm.s-ol.nu: took longer then 30 sec to respond
+https://smidgeo.com/bots: took longer then 30 sec to respond
+https://magoz.is: took longer then 30 sec to respond
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
+https://gndclouds.cc: took longer then 30 sec to respond
 https://xuv.be: Error: Request failed with status code 503
-https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 139788862064512:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
+https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140602115721088:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
 
+https://mboxed.github.io/sodatsu: took longer then 30 sec to respond
 http://www.miha-co.ca: Error: getaddrinfo ENOTFOUND www.miha-co.ca
+https://buzzert.net: Error: certificate has expired
 https://txt.eli.li/twtxt/twtxt.txt: Error: getaddrinfo ENOTFOUND txt.eli.li
 https://gueorgui.net: took longer then 30 sec to respond
 https://gueorgui.net/feed.xml: took longer then 30 sec to respond
+https://azlen.me/twtxt.txt: took longer then 30 sec to respond
 https://dotcomboom.somnolescent.net/: Error: self signed certificate
 https://dotcomboom.somnolescent.net/twtxt.txt: Error: self signed certificate
 https://sixey.es/feed.xml: Error: Request failed with status code 404
+http://www.jameschip.io: took longer then 30 sec to respond
 http://www.jameschip.io/index.xml: took longer then 30 sec to respond
-https://aklsh.now.sh: Error: Request failed with status code 404
+https://provokeanalog.com: took longer then 30 sec to respond
+https://aklsh.now.sh: took longer then 30 sec to respond
 https://0xff.nu/feed.xml: Error: Request failed with status code 404
+https://system32.simone.computer/rss.xml: took longer then 30 sec to respond
+https://simply.personal.jenett.org: took longer then 30 sec to respond
+https://simply.personal.jenett.org/feed: took longer then 30 sec to respond
+http://q.pfiffer.org/: took longer then 30 sec to respond
+http://q.pfiffer.org/feed.xml: took longer then 30 sec to respond
+https://www.materialfuture.net/rss.xml: took longer then 30 sec to respond
 https://solquemal.com/: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: solquemal.com. is not in the cert's altnames: DNS:i-diet.fr, DNS:www.i-diet.fr
+https://dampfkraft.com: took longer then 30 sec to respond
+https://dampfkraft.com/index.rss: took longer then 30 sec to respond
+https://awalvie.me: took longer then 30 sec to respond
 https://www.romainaubert.com/: Error: Request failed with status code 404
 https://www.romainaubert.com/twtxt.txt: Error: Request failed with status code 404
 https://www.romainaubert.com/feed.rss: Error: Request failed with status code 404
+https://www.juliendesrosiers.com/: took longer then 30 sec to respond
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
+https://fdisk.space: took longer then 30 sec to respond
+https://www.milofultz.com: took longer then 30 sec to respond
 https://milofultz.com/atom.xml: Error: Request failed with status code 404
+https://thomasorus.com: took longer then 30 sec to respond
 https://garden.tymon-zaniewski.xyz/: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: garden.tymon-zaniewski.xyz. is not in the cert's altnames: DNS:*.xserver.jp, DNS:xserver.jp
 https://0l.wtf: Error: connect ECONNREFUSED 54.193.216.223:443
 https://0l.wtf/rss.xml: Error: connect ECONNREFUSED 54.193.216.223:443
 https://0l.wtf/twtxt.txt: Error: connect ECONNREFUSED 54.193.216.223:443
+https://eric.jetzt: took longer then 30 sec to respond
+https://rodrigofranco.com: took longer then 30 sec to respond
+https://itwont.work: took longer then 30 sec to respond
+https://itwont.work/atom.xml: took longer then 30 sec to respond
 https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
 https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
-https://ryutaroikeda.ovh: Error: getaddrinfo ENOTFOUND ryutaroikeda.ovh
-https://ryutaroikeda.ovh/feed.rss: Error: getaddrinfo ENOTFOUND ryutaroikeda.ovh
+https://pixouls.xyz: took longer then 30 sec to respond
+https://www.maxhaesslein.de: took longer then 30 sec to respond
+https://yhnck.xyz: took longer then 30 sec to respond
+https://astrid.tech/atom.xml: took longer then 30 sec to respond
+http://flower.codes: took longer then 30 sec to respond
+http://flower.codes/feed.xml: took longer then 30 sec to respond
+https://noelle.dev: took longer then 30 sec to respond
+https://www.giacintocarlucci.it: took longer then 30 sec to respond
+https://www.paritybit.ca: took longer then 30 sec to respond
+https://www.paritybit.ca/feed.xml: took longer then 30 sec to respond
+https://ryutaroikeda.ovh: took longer then 30 sec to respond
+https://ryutaroikeda.ovh/feed.rss: took longer then 30 sec to respond
+https://vladh.net: took longer then 30 sec to respond
+http://plastic-idolatry.com/erik: took longer then 30 sec to respond
