@@ -1,12 +1,14 @@
+https://wiki.xxiivv.com: Error: connect ENETUNREACH 2606:50c0:8000::153:443 - Local (:::0)
+https://wiki.xxiivv.com/links/tw.txt: Error: connect ENETUNREACH 2606:50c0:8000::153:443 - Local (:::0)
 https://anxl.faith: Error: getaddrinfo ENOTFOUND anxl.faith
 http://controls.ee: Error: certificate has expired
-https://xarene.la: Error: getaddrinfo ENOTFOUND xarene.la
+https://xarene.la: Error: certificate has expired
 https://underscorediscovery.ca: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: underscorediscovery.ca. is not in the cert's altnames: DNS:sign1.iatelecom.ca
 https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 500
 https://mmm.s-ol.nu: took longer then 30 sec to respond
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
 https://xuv.be: Error: Request failed with status code 503
-https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140026898429824:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
+https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 139922260608896:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
 
 http://www.miha-co.ca: Error: getaddrinfo ENOTFOUND www.miha-co.ca
 https://txt.eli.li/twtxt/twtxt.txt: Error: getaddrinfo ENOTFOUND txt.eli.li
@@ -25,7 +27,8 @@ https://www.romainaubert.com/feed.rss: Error: Request failed with status code 40
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
 https://milofultz.com/atom.xml: Error: Request failed with status code 404
 https://garden.tymon-zaniewski.xyz/: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: garden.tymon-zaniewski.xyz. is not in the cert's altnames: DNS:*.xserver.jp, DNS:xserver.jp
-https://mineralexistence.com/: took longer then 30 sec to respond
+https://mineralexistence.com/: Error: Client network socket disconnected before secure TLS connection was established
+https://mineralexistence.com/tw.txt: Error: read ECONNRESET
 https://0l.wtf: took longer then 30 sec to respond
 https://0l.wtf/rss.xml: took longer then 30 sec to respond
 https://0l.wtf/twtxt.txt: took longer then 30 sec to respond
