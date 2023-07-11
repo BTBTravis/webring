@@ -2,12 +2,11 @@ https://avanier.studio: Error: getaddrinfo ENOTFOUND avanier.studio
 https://avanier.studio/tw.txt: Error: getaddrinfo ENOTFOUND avanier.studio
 https://anxl.faith: Error: getaddrinfo ENOTFOUND anxl.faith
 http://controls.ee: Error: certificate has expired
-http://bildwissenschaft.vortok.info: took longer then 30 sec to respond
 https://underscorediscovery.ca: took longer then 30 sec to respond
 https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 500
 http://memoriata.com: Error: getaddrinfo EAI_AGAIN memoriata.com
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
-https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140379679123328:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
+https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140151738242944:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
 
 https://letters.vexingworkshop.com: Error: Request failed with status code 503
 http://www.miha-co.ca: Error: getaddrinfo ENOTFOUND www.miha-co.ca
@@ -26,10 +25,10 @@ https://0xff.nu/feed.xml: Error: Request failed with status code 404
 https://solquemal.com/: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: solquemal.com. is not in the cert's altnames: DNS:i-diet.fr, DNS:www.i-diet.fr
 https://futuristan.io: Error: unable to verify the first certificate
 https://www.romainaubert.com/: Error: Client network socket disconnected before secure TLS connection was established
-https://www.romainaubert.com/twtxt.txt: Error: read ECONNRESET
+https://www.romainaubert.com/twtxt.txt: Error: Client network socket disconnected before secure TLS connection was established
 https://www.romainaubert.com/feed.rss: Error: Client network socket disconnected before secure TLS connection was established
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
-https://mxmarin.ca: Error: getaddrinfo ENOTFOUND mxmarin.ca
+https://mxmarin.ca: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: mxmarin.ca. is not in the cert's altnames: DNS:mail.citymined.org
 https://milofultz.com/atom.xml: Error: Request failed with status code 404
 https://garden.tymon-zaniewski.xyz/: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: garden.tymon-zaniewski.xyz. is not in the cert's altnames: DNS:*.xserver.jp, DNS:xserver.jp
 https://mineralexistence.com/: Error: connect ECONNREFUSED 63.92.69.207:443
