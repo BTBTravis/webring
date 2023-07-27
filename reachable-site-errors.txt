@@ -6,7 +6,7 @@ https://underscorediscovery.ca: took longer then 30 sec to respond
 https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 500
 http://memoriata.com: Error: getaddrinfo EAI_AGAIN memoriata.com
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
-https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140119994124160:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
+https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140587829540736:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
 
 https://letters.vexingworkshop.com: Error: Request failed with status code 503
 http://www.miha-co.ca: Error: getaddrinfo ENOTFOUND www.miha-co.ca
@@ -27,14 +27,17 @@ https://www.romainaubert.com/twtxt.txt: Error: getaddrinfo ENOTFOUND www.romaina
 https://www.romainaubert.com/feed.rss: Error: getaddrinfo ENOTFOUND www.romainaubert.com
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
 https://mxmarin.ca: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: mxmarin.ca. is not in the cert's altnames: DNS:mail.citymined.org
-https://milofultz.com/atom.xml: Error: Request failed with status code 404
+https://www.milofultz.com: Error: Request failed with status code 424
+https://milofultz.com/atom.xml: Error: Request failed with status code 424
 https://garden.tymon-zaniewski.xyz/: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: garden.tymon-zaniewski.xyz. is not in the cert's altnames: DNS:*.xserver.jp, DNS:xserver.jp
 https://mineralexistence.com/: took longer then 30 sec to respond
 https://mineralexistence.com/tw.txt: took longer then 30 sec to respond
 https://0l.wtf: took longer then 30 sec to respond
 https://0l.wtf/rss.xml: took longer then 30 sec to respond
 https://0l.wtf/twtxt.txt: took longer then 30 sec to respond
+https://njoqi.me: took longer then 30 sec to respond
 https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
 https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
+https://pixouls.xyz: took longer then 30 sec to respond
 https://ryutaroikeda.ovh: Error: getaddrinfo ENOTFOUND ryutaroikeda.ovh
 https://ryutaroikeda.ovh/feed.rss: Error: getaddrinfo ENOTFOUND ryutaroikeda.ovh
