@@ -1,13 +1,13 @@
 https://avanier.studio: Error: getaddrinfo ENOTFOUND avanier.studio
 https://avanier.studio/tw.txt: Error: getaddrinfo ENOTFOUND avanier.studio
-https://kaemura.com: Error: self signed certificate
-https://kaemura.com/twttxt.txt: Error: read ECONNRESET
+https://kaemura.com: Error: read ECONNRESET
+https://kaemura.com/twttxt.txt: Error: self signed certificate
 https://anxl.faith: Error: getaddrinfo ENOTFOUND anxl.faith
 http://controls.ee: Error: certificate has expired
 https://underscorediscovery.ca: took longer then 30 sec to respond
 https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 500
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
-https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 139859439921024:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
+https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140674110162816:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
 
 https://letters.vexingworkshop.com: Error: Request failed with status code 503
 http://www.miha-co.ca: Error: getaddrinfo ENOTFOUND www.miha-co.ca
@@ -19,6 +19,7 @@ https://dotcomboom.somnolescent.net/twtxt.txt: Error: self signed certificate
 https://sixey.es/feed.xml: Error: Request failed with status code 404
 https://www.johannesg.com: Error: getaddrinfo ENOTFOUND www.johannesg.com
 https://paysonwallach.com: Error: connect ECONNREFUSED 217.70.184.38:443
+https://natwelch.com: took longer then 30 sec to respond
 https://aklsh.now.sh: Error: Request failed with status code 404
 https://0xff.nu/feed.xml: Error: Request failed with status code 404
 https://materialfuture.net: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: materialfuture.net. is not in the cert's altnames: DNS:*.netlify.app, DNS:netlify.app
@@ -29,6 +30,10 @@ https://www.romainaubert.com/: Error: getaddrinfo ENOTFOUND www.romainaubert.com
 https://www.romainaubert.com/twtxt.txt: Error: getaddrinfo ENOTFOUND www.romainaubert.com
 https://www.romainaubert.com/feed.rss: Error: getaddrinfo ENOTFOUND www.romainaubert.com
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
+https://fdisk.space: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: fdisk.space. is not in the cert's altnames: DNS:*.123emebed.co, DNS:*.akhbarco.com, DNS:*.bieunjoy.com, DNS:*.calscla.org, DNS:*.curiousapiens.com, DNS:*.dramacool1.org, DNS:*.eracristiana.com, DNS:*.evoa.me, DNS:*.forumeg.com, DNS:*.forumil.com, DNS:*.forumps.com, DNS:*.forumsfi.com, DNS:*.forumstw.com, DNS:*.hch989.com, DNS:*.heidelbergcountychoppers.com, DNS:*.ik4.cc, DNS:*.jiagq.com, DNS:*.kinovod338.cc, DNS:*.kopro.org, DNS:*.linkgo1.com, DNS:*.madougrh.com, DNS:*.mathadvantage.org, DNS:*.mmaengage.com, DNS:*.morfilmizle.com, DNS:*.nung18up.com, DNS:*.onlinecoursesschools.com, DNS:*.sculptologie.com, DNS:*.shafeehaque.com, DNS:*.thefappenings.us, DNS:*.toppodaruk.com, DNS:*.trontxt.com, DNS:*.unionadfp.org, DNS:*.vidfast.co, DNS:*.yadongmango.net, DNS:*.ylomonya.com, DNS:123emebed.co, DNS:akhbarco.com, DNS:bieunjoy.com, DNS:calscla.org, DNS:curiousapiens.com, DNS:dramacool1.org, DNS:eracristiana.com, DNS:evoa.me, DNS:forumeg.com, DNS:forumil.com, DNS:forumps.com, DNS:forumsfi.com, DNS:forumstw.com, DNS:hch989.com, DNS:heidelbergcountychoppers.com, DNS:ik4.cc, DNS:jiagq.com, DNS:kinovod338.cc, DNS:kopro.org, DNS:linkgo1.com, DNS:madougrh.com, DNS:mathadvantage.org, DNS:mmaengage.com, DNS:morfilmizle.com, DNS:nung18up.com, DNS:onlinecoursesschools.com, DNS:sculptologie.com, DNS:shafeehaque.com, DNS:thefappenings.us, DNS:toppodaruk.com, DNS:trontxt.com, DNS:unionadfp.org, DNS:vidfast.co, DNS:yadongmango.net, DNS:ylomonya.com
+https://fdisk.space/rss.xml: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: fdisk.space. is not in the cert's altnames: DNS:*.123emebed.co, DNS:*.akhbarco.com, DNS:*.bieunjoy.com, DNS:*.calscla.org, DNS:*.curiousapiens.com, DNS:*.dramacool1.org, DNS:*.eracristiana.com, DNS:*.evoa.me, DNS:*.forumeg.com, DNS:*.forumil.com, DNS:*.forumps.com, DNS:*.forumsfi.com, DNS:*.forumstw.com, DNS:*.hch989.com, DNS:*.heidelbergcountychoppers.com, DNS:*.ik4.cc, DNS:*.jiagq.com, DNS:*.kinovod338.cc, DNS:*.kopro.org, DNS:*.linkgo1.com, DNS:*.madougrh.com, DNS:*.mathadvantage.org, DNS:*.mmaengage.com, DNS:*.morfilmizle.com, DNS:*.nung18up.com, DNS:*.onlinecoursesschools.com, DNS:*.sculptologie.com, DNS:*.shafeehaque.com, DNS:*.thefappenings.us, DNS:*.toppodaruk.com, DNS:*.trontxt.com, DNS:*.unionadfp.org, DNS:*.vidfast.co, DNS:*.yadongmango.net, DNS:*.ylomonya.com, DNS:123emebed.co, DNS:akhbarco.com, DNS:bieunjoy.com, DNS:calscla.org, DNS:curiousapiens.com, DNS:dramacool1.org, DNS:eracristiana.com, DNS:evoa.me, DNS:forumeg.com, DNS:forumil.com, DNS:forumps.com, DNS:forumsfi.com, DNS:forumstw.com, DNS:hch989.com, DNS:heidelbergcountychoppers.com, DNS:ik4.cc, DNS:jiagq.com, DNS:kinovod338.cc, DNS:kopro.org, DNS:linkgo1.com, DNS:madougrh.com, DNS:mathadvantage.org, DNS:mmaengage.com, DNS:morfilmizle.com, DNS:nung18up.com, DNS:onlinecoursesschools.com, DNS:sculptologie.com, DNS:shafeehaque.com, DNS:thefappenings.us, DNS:toppodaruk.com, DNS:trontxt.com, DNS:unionadfp.org, DNS:vidfast.co, DNS:yadongmango.net, DNS:ylomonya.com
+https://inqlab.net: Error: getaddrinfo ENOTFOUND inqlab.net
+https://inqlab.net/posts.xml: Error: getaddrinfo ENOTFOUND inqlab.net
 https://mxmarin.ca: Error: connect ECONNREFUSED 217.70.184.38:443
 https://milofultz.com/atom.xml: Error: Request failed with status code 404
 https://garden.tymon-zaniewski.xyz/: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: garden.tymon-zaniewski.xyz. is not in the cert's altnames: DNS:*.xserver.jp, DNS:xserver.jp
