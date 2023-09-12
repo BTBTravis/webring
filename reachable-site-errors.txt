@@ -1,14 +1,14 @@
 https://avanier.studio: Error: getaddrinfo ENOTFOUND avanier.studio
 https://avanier.studio/tw.txt: Error: getaddrinfo ENOTFOUND avanier.studio
 https://kaemura.com: Error: self signed certificate
-https://kaemura.com/twttxt.txt: Error: read ECONNRESET
+https://kaemura.com/twttxt.txt: Error: self signed certificate
 https://anxl.faith: Error: getaddrinfo ENOTFOUND anxl.faith
 http://controls.ee: Error: certificate has expired
 https://underscorediscovery.ca: took longer then 30 sec to respond
 https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 500
 http://memoriata.com: Error: getaddrinfo ENOTFOUND memoriata.com
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
-https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 139986671990656:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
+https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140413278353280:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
 
 https://letters.vexingworkshop.com: Error: certificate has expired
 http://www.miha-co.ca: Error: getaddrinfo ENOTFOUND www.miha-co.ca
@@ -22,7 +22,6 @@ https://www.johannesg.com: Error: getaddrinfo ENOTFOUND www.johannesg.com
 https://paysonwallach.com: Error: connect ECONNREFUSED 217.70.184.38:443
 https://aklsh.now.sh: Error: Request failed with status code 404
 https://0xff.nu/feed.xml: Error: Request failed with status code 404
-https://www.edwinwenink.xyz: took longer then 30 sec to respond
 https://materialfuture.net: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: materialfuture.net. is not in the cert's altnames: DNS:*.netlify.app, DNS:netlify.app
 https://www.materialfuture.net/rss.xml: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: www.materialfuture.net. is not in the cert's altnames: DNS:*.netlify.app, DNS:netlify.app
 https://solquemal.com/: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: solquemal.com. is not in the cert's altnames: DNS:i-diet.fr, DNS:www.i-diet.fr
@@ -31,8 +30,8 @@ https://www.romainaubert.com/: Error: getaddrinfo ENOTFOUND www.romainaubert.com
 https://www.romainaubert.com/twtxt.txt: Error: getaddrinfo ENOTFOUND www.romainaubert.com
 https://www.romainaubert.com/feed.rss: Error: getaddrinfo ENOTFOUND www.romainaubert.com
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
-https://fdisk.space: took longer then 30 sec to respond
-https://fdisk.space/rss.xml: took longer then 30 sec to respond
+https://fdisk.space: Error: getaddrinfo ENOTFOUND fdisk.space
+https://fdisk.space/rss.xml: Error: getaddrinfo ENOTFOUND fdisk.space
 https://mxmarin.ca: Error: connect ECONNREFUSED 217.70.184.38:443
 https://milofultz.com/atom.xml: Error: Request failed with status code 404
 https://garden.tymon-zaniewski.xyz/: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: garden.tymon-zaniewski.xyz. is not in the cert's altnames: DNS:*.xserver.jp, DNS:xserver.jp
