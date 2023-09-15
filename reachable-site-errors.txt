@@ -8,7 +8,7 @@ https://underscorediscovery.ca: took longer then 30 sec to respond
 https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 500
 http://memoriata.com: Error: getaddrinfo ENOTFOUND memoriata.com
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
-https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 139883173582720:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
+https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140077054162816:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
 
 https://letters.vexingworkshop.com: Error: certificate has expired
 http://www.miha-co.ca: Error: getaddrinfo ENOTFOUND www.miha-co.ca
@@ -33,10 +33,9 @@ https://fdisk.space: Error: getaddrinfo ENOTFOUND fdisk.space
 https://fdisk.space/rss.xml: Error: getaddrinfo ENOTFOUND fdisk.space
 https://mxmarin.ca: Error: connect ECONNREFUSED 217.70.184.38:443
 https://milofultz.com/atom.xml: Error: Request failed with status code 404
-https://thomasorus.com: took longer then 30 sec to respond
 https://garden.tymon-zaniewski.xyz/: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: garden.tymon-zaniewski.xyz. is not in the cert's altnames: DNS:*.xserver.jp, DNS:xserver.jp
-https://mineralexistence.com/: Error: getaddrinfo EAI_AGAIN mineralexistence.com
-https://mineralexistence.com/tw.txt: Error: getaddrinfo EAI_AGAIN mineralexistence.com
+https://mineralexistence.com/: Error: getaddrinfo ENOTFOUND mineralexistence.com
+https://mineralexistence.com/tw.txt: Error: getaddrinfo ENOTFOUND mineralexistence.com
 https://0l.wtf: took longer then 30 sec to respond
 https://0l.wtf/rss.xml: took longer then 30 sec to respond
 https://0l.wtf/twtxt.txt: took longer then 30 sec to respond
