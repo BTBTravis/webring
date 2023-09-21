@@ -1,14 +1,14 @@
 https://avanier.studio: Error: getaddrinfo ENOTFOUND avanier.studio
 https://avanier.studio/tw.txt: Error: getaddrinfo ENOTFOUND avanier.studio
-https://kaemura.com: took longer then 30 sec to respond
-https://kaemura.com/twttxt.txt: took longer then 30 sec to respond
+https://kaemura.com: Error: self signed certificate
+https://kaemura.com/twttxt.txt: Error: self signed certificate
 https://anxl.faith: Error: getaddrinfo ENOTFOUND anxl.faith
 http://controls.ee: Error: certificate has expired
 https://underscorediscovery.ca: took longer then 30 sec to respond
 https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 500
 http://memoriata.com: Error: getaddrinfo ENOTFOUND memoriata.com
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
-https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140132133152640:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
+https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140435366537088:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
 
 https://letters.vexingworkshop.com: Error: certificate has expired
 http://www.miha-co.ca: Error: getaddrinfo ENOTFOUND www.miha-co.ca
