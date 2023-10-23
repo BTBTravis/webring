@@ -8,7 +8,7 @@ https://underscorediscovery.ca: took longer then 30 sec to respond
 https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 500
 http://memoriata.com: Error: getaddrinfo EAI_AGAIN memoriata.com
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
-https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140516723820416:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
+https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 139950646175616:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
 
 https://letters.vexingworkshop.com: Error: connect ECONNREFUSED 157.230.72.177:443
 http://www.miha-co.ca: Error: getaddrinfo ENOTFOUND www.miha-co.ca
@@ -22,24 +22,42 @@ https://www.raul.earth/: Error: certificate has expired
 https://paysonwallach.com: Error: connect ECONNREFUSED 217.70.184.38:443
 https://aklsh.now.sh: Error: Request failed with status code 404
 https://0xff.nu/feed.xml: Error: Request failed with status code 404
+https://simply.personal.jenett.org/feed: took longer then 30 sec to respond
 https://materialfuture.net: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: materialfuture.net. is not in the cert's altnames: DNS:*.netlify.app, DNS:netlify.app
 https://www.materialfuture.net/rss.xml: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: www.materialfuture.net. is not in the cert's altnames: DNS:*.netlify.app, DNS:netlify.app
 https://solquemal.com/: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: solquemal.com. is not in the cert's altnames: DNS:i-diet.fr, DNS:www.i-diet.fr
+https://dampfkraft.com: took longer then 30 sec to respond
+https://dampfkraft.com/index.rss: took longer then 30 sec to respond
 https://futuristan.io: Error: unable to verify the first certificate
-https://www.romainaubert.com/twtxt.txt: Error: Request failed with status code 404
-https://www.romainaubert.com/feed.rss: Error: Request failed with status code 404
+https://www.romainaubert.com/: took longer then 30 sec to respond
+https://www.romainaubert.com/twtxt.txt: took longer then 30 sec to respond
+https://www.romainaubert.com/feed.rss: took longer then 30 sec to respond
+https://www.juliendesrosiers.com/: took longer then 30 sec to respond
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
+https://mxmarin.ca: took longer then 30 sec to respond
+https://www.milofultz.com: took longer then 30 sec to respond
 https://milofultz.com/atom.xml: Error: Request failed with status code 404
-https://garden.tymon-zaniewski.xyz/: Error: write EPROTO 140516723820416:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
+https://thomasorus.com: took longer then 30 sec to respond
+https://garden.tymon-zaniewski.xyz/: Error: write EPROTO 139950646175616:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
 
 https://mineralexistence.com/: Error: getaddrinfo ENOTFOUND mineralexistence.com
 https://mineralexistence.com/tw.txt: Error: getaddrinfo ENOTFOUND mineralexistence.com
 https://0l.wtf: took longer then 30 sec to respond
 https://0l.wtf/rss.xml: took longer then 30 sec to respond
 https://0l.wtf/twtxt.txt: took longer then 30 sec to respond
-https://oppen.digital: Error: Request failed with status code 403
+https://natehn.com: took longer then 30 sec to respond
+https://natehn.com/index.xml: took longer then 30 sec to respond
+https://eric.jetzt: took longer then 30 sec to respond
+https://rodrigofranco.com: took longer then 30 sec to respond
+https://oppen.digital: took longer then 30 sec to respond
+https://itwont.work: took longer then 30 sec to respond
+https://itwont.work/atom.xml: took longer then 30 sec to respond
 https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
 https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
 https://voidjumper.glass: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: voidjumper.glass. is not in the cert's altnames: DNS:www.voidjumper.glass
+https://pixouls.xyz: took longer then 30 sec to respond
+https://embyr.sh: took longer then 30 sec to respond
+https://embyr.sh/index.xml: took longer then 30 sec to respond
 https://ryutaroikeda.ovh: Error: getaddrinfo ENOTFOUND ryutaroikeda.ovh
 https://ryutaroikeda.ovh/feed.rss: Error: getaddrinfo ENOTFOUND ryutaroikeda.ovh
+http://plastic-idolatry.com/erik: took longer then 30 sec to respond
