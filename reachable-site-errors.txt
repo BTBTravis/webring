@@ -7,7 +7,7 @@ https://kokorobot.ca/links/rss.xml: Error: Request failed with status code 404
 https://underscorediscovery.ca: took longer then 30 sec to respond
 https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 500
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
-https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140285525628800:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
+https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 139985708115840:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
 
 https://letters.vexingworkshop.com: Error: connect ECONNREFUSED 157.230.72.177:443
 http://www.miha-co.ca: Error: getaddrinfo ENOTFOUND www.miha-co.ca
@@ -17,7 +17,6 @@ https://gueorgui.net/feed.xml: took longer then 30 sec to respond
 https://dotcomboom.somnolescent.net/: Error: self signed certificate
 https://dotcomboom.somnolescent.net/twtxt.txt: Error: self signed certificate
 https://sixey.es/feed.xml: Error: Request failed with status code 404
-https://www.raul.earth/: Error: certificate has expired
 https://paysonwallach.com: Error: connect ECONNREFUSED 217.70.184.38:443
 https://aklsh.now.sh: Error: Request failed with status code 404
 https://0xff.nu/feed.xml: Error: Request failed with status code 404
@@ -35,9 +34,12 @@ https://mineralexistence.com/tw.txt: Error: getaddrinfo ENOTFOUND mineralexisten
 https://0l.wtf: took longer then 30 sec to respond
 https://0l.wtf/rss.xml: took longer then 30 sec to respond
 https://0l.wtf/twtxt.txt: took longer then 30 sec to respond
+https://eric.jetzt: Error: connect ENETUNREACH 2003:f0:e717:6100:b86b:3cff:fe73:ba3b:443 - Local (:::0)
 https://oppen.digital: Error: Request failed with status code 403
 https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
 https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
 https://voidjumper.glass: took longer then 30 sec to respond
+https://embyr.sh: Error: connect ECONNREFUSED 198.244.188.242:443
+https://embyr.sh/index.xml: Error: connect ECONNREFUSED 198.244.188.242:443
 https://ryutaroikeda.ovh: Error: getaddrinfo ENOTFOUND ryutaroikeda.ovh
 https://ryutaroikeda.ovh/feed.rss: Error: getaddrinfo ENOTFOUND ryutaroikeda.ovh
