@@ -7,15 +7,13 @@ https://kokorobot.ca/links/rss.xml: Error: Request failed with status code 404
 https://underscorediscovery.ca: took longer then 30 sec to respond
 https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 500
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
-https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140650249717632:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
+https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140660743841664:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
 
 https://letters.vexingworkshop.com: Error: connect ECONNREFUSED 157.230.72.177:443
 http://www.miha-co.ca: Error: getaddrinfo ENOTFOUND www.miha-co.ca
 https://txt.eli.li/twtxt/twtxt.txt: Error: getaddrinfo ENOTFOUND txt.eli.li
 https://gueorgui.net: took longer then 30 sec to respond
 https://gueorgui.net/feed.xml: took longer then 30 sec to respond
-https://oddworlds.org: took longer then 30 sec to respond
-https://oddworlds.org/rss.xml: took longer then 30 sec to respond
 https://dotcomboom.somnolescent.net/: Error: self signed certificate
 https://dotcomboom.somnolescent.net/twtxt.txt: Error: self signed certificate
 https://sixey.es/feed.xml: Error: Request failed with status code 404
