@@ -6,7 +6,7 @@ http://controls.ee: Error: certificate has expired
 https://underscorediscovery.ca: took longer then 30 sec to respond
 https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 500
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
-https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 139911880599424:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
+https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140137859204992:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
 
 https://letters.vexingworkshop.com: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: letters.vexingworkshop.com. is not in the cert's altnames: DNS:a248.e.akamai.net, DNS:*.akamaized.net, DNS:*.akamaized-staging.net, DNS:*.akamaihd.net, DNS:*.akamaihd-staging.net
 http://www.miha-co.ca: Error: getaddrinfo ENOTFOUND www.miha-co.ca
@@ -16,11 +16,14 @@ https://gueorgui.net/feed.xml: took longer then 30 sec to respond
 https://dotcomboom.somnolescent.net/: Error: self signed certificate
 https://dotcomboom.somnolescent.net/twtxt.txt: Error: self signed certificate
 https://sixey.es/feed.xml: Error: Request failed with status code 404
+https://icyphox.sh: Error: certificate has expired
+https://icyphox.sh/blog/feed.xml: Error: certificate has expired
 https://www.raul.earth/: Error: getaddrinfo ENOTFOUND www.raul.earth
 https://paysonwallach.com: Error: connect ECONNREFUSED 217.70.184.38:443
 https://aklsh.now.sh: Error: Request failed with status code 404
 https://0xff.nu/feed.xml: Error: Request failed with status code 404
 https://system32.simone.computer/rss.xml: Error: getaddrinfo ENOTFOUND system32.simone.computer
+http://xj-ix.luxe: took longer then 30 sec to respond
 https://solquemal.com/: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: solquemal.com. is not in the cert's altnames: DNS:i-diet.fr, DNS:www.i-diet.fr
 https://futuristan.io: Error: unable to verify the first certificate
 https://www.romainaubert.com/twtxt.txt: Error: Request failed with status code 404
@@ -33,11 +36,10 @@ https://mineralexistence.com/tw.txt: Error: getaddrinfo ENOTFOUND mineralexisten
 https://0l.wtf: took longer then 30 sec to respond
 https://0l.wtf/rss.xml: took longer then 30 sec to respond
 https://0l.wtf/twtxt.txt: took longer then 30 sec to respond
-https://eric.jetzt: took longer then 30 sec to respond
 https://oppen.digital: Error: Request failed with status code 403
 https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
 https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
-https://voidjumper.glass: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: voidjumper.glass. is not in the cert's altnames: DNS:teste.gamenetblizzard.site
+https://voidjumper.glass: took longer then 30 sec to respond
 https://pixouls.xyz: Error: connect ECONNREFUSED 193.26.156.135:80
 https://ryutaroikeda.ovh: Error: getaddrinfo ENOTFOUND ryutaroikeda.ovh
 https://ryutaroikeda.ovh/feed.rss: Error: getaddrinfo ENOTFOUND ryutaroikeda.ovh
