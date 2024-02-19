@@ -1,7 +1,7 @@
 http://estevancarlos.com: took longer then 30 sec to respond
 https://electro.pizza/twtxt.txt: Error: Request failed with status code 404
 https://avanier.studio: Error: Client network socket disconnected before secure TLS connection was established
-https://avanier.studio/tw.txt: Error: Client network socket disconnected before secure TLS connection was established
+https://avanier.studio/tw.txt: Error: Request failed with status code 410
 https://kaemura.com: Error: getaddrinfo ENOTFOUND kaemura.com
 https://kaemura.com/twttxt.txt: Error: getaddrinfo ENOTFOUND kaemura.com
 https://bismuth.garden/feed.xml: took longer then 30 sec to respond
@@ -19,11 +19,10 @@ https://smidgeo.com/bots: took longer then 30 sec to respond
 https://magoz.is: took longer then 30 sec to respond
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
 https://gndclouds.cc: took longer then 30 sec to respond
-https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 139986268411776:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
+https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140359694780288:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
 
 https://mboxed.github.io/sodatsu: took longer then 30 sec to respond
-https://letters.vexingworkshop.com: Error: write EPROTO 139986268411776:error:14094458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1563:SSL alert number 112
-
+https://letters.vexingworkshop.com: took longer then 30 sec to respond
 http://www.miha-co.ca: Error: getaddrinfo ENOTFOUND www.miha-co.ca
 https://txt.eli.li/twtxt/twtxt.txt: Error: getaddrinfo ENOTFOUND txt.eli.li
 https://gueorgui.net: took longer then 30 sec to respond
@@ -31,7 +30,8 @@ https://gueorgui.net/feed.xml: took longer then 30 sec to respond
 https://azlen.me/twtxt.txt: took longer then 30 sec to respond
 https://dotcomboom.somnolescent.net/: Error: self signed certificate
 https://dotcomboom.somnolescent.net/twtxt.txt: Error: self signed certificate
-https://sixey.es/feed.xml: Error: Request failed with status code 404
+https://sixey.es/: Error: getaddrinfo EAI_AGAIN sixey.es
+https://sixey.es/feed.xml: Error: getaddrinfo EAI_AGAIN sixey.es
 http://www.jameschip.io: took longer then 30 sec to respond
 http://www.jameschip.io/index.xml: took longer then 30 sec to respond
 https://www.raul.earth/: Error: getaddrinfo ENOTFOUND www.raul.earth
@@ -40,131 +40,47 @@ https://paysonwallach.com: Error: connect ECONNREFUSED 217.70.184.38:443
 https://aklsh.now.sh: took longer then 30 sec to respond
 https://0xff.nu/feed.xml: Error: Request failed with status code 404
 https://system32.simone.computer/rss.xml: Error: getaddrinfo ENOTFOUND system32.simone.computer
-http://xj-ix.luxe: took longer then 30 sec to respond
-http://xj-ix.luxe/feed.atom: took longer then 30 sec to respond
 https://simply.personal.jenett.org: took longer then 30 sec to respond
 https://simply.personal.jenett.org/feed: took longer then 30 sec to respond
 http://q.pfiffer.org/: took longer then 30 sec to respond
 http://q.pfiffer.org/feed.xml: took longer then 30 sec to respond
-https://zvava.org: took longer then 30 sec to respond
-https://amorphic.space: took longer then 30 sec to respond
-https://www.edwinwenink.xyz: took longer then 30 sec to respond
-https://www.edwinwenink.xyz/index.xml: took longer then 30 sec to respond
-https://www.mentalnodes.com: took longer then 30 sec to respond
-https://www.mentalnodes.com/sitemap.xml: took longer then 30 sec to respond
-https://copiona.com: took longer then 30 sec to respond
-https://proycon.anaproy.nl: took longer then 30 sec to respond
 https://www.marginchronicles.com: took longer then 30 sec to respond
-https://roytang.net: took longer then 30 sec to respond
-https://roytang.net/index.xml: took longer then 30 sec to respond
-https://materialfuture.net: took longer then 30 sec to respond
-https://www.materialfuture.net/rss.xml: took longer then 30 sec to respond
-https://solquemal.com/: took longer then 30 sec to respond
+https://materialfuture.net: Error: Request failed with status code 404
+https://www.materialfuture.net/rss.xml: Error: Request failed with status code 404
+https://solquemal.com/: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: solquemal.com. is not in the cert's altnames: DNS:i-diet.fr, DNS:www.i-diet.fr
 https://dampfkraft.com: took longer then 30 sec to respond
 https://dampfkraft.com/index.rss: took longer then 30 sec to respond
-https://travisshears.com: took longer then 30 sec to respond
-https://travisshears.com/apps/twtxt/twtxt.txt: took longer then 30 sec to respond
-https://travisshears.com/index.xml: took longer then 30 sec to respond
 https://awalvie.me: took longer then 30 sec to respond
-https://futuristan.io: took longer then 30 sec to respond
+https://futuristan.io: Error: unable to verify the first certificate
 https://www.romainaubert.com/: took longer then 30 sec to respond
 https://www.romainaubert.com/twtxt.txt: took longer then 30 sec to respond
 https://www.romainaubert.com/feed.rss: took longer then 30 sec to respond
-https://ix5.org/: took longer then 30 sec to respond
-https://ix5.org/thoughts/feeds/all.atom.xml: took longer then 30 sec to respond
 https://www.juliendesrosiers.com/: took longer then 30 sec to respond
-https://www.juliendesrosiers.com/feed.xml: took longer then 30 sec to respond
-https://nchrs.xyz: took longer then 30 sec to respond
-https://nchrs.xyz/rss.xml: took longer then 30 sec to respond
-https://nor.the-rn.info: took longer then 30 sec to respond
-https://nor.the-rn.info/feed.xml: took longer then 30 sec to respond
-https://matildepark.ca: took longer then 30 sec to respond
-https://matildepark.ca/feed.xml: took longer then 30 sec to respond
+https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
 https://fdisk.space: took longer then 30 sec to respond
 https://fdisk.space/rss.xml: took longer then 30 sec to respond
-https://deianeira.co: took longer then 30 sec to respond
-https://inqlab.net: took longer then 30 sec to respond
-https://inqlab.net/posts.xml: took longer then 30 sec to respond
-https://abstractxan.xyz: took longer then 30 sec to respond
 https://mxmarin.ca: took longer then 30 sec to respond
-https://metasyn.pw: took longer then 30 sec to respond
-https://metasyn.pw/rss.xml: took longer then 30 sec to respond
 https://www.milofultz.com: took longer then 30 sec to respond
-https://milofultz.com/atom.xml: took longer then 30 sec to respond
+https://milofultz.com/atom.xml: Error: Request failed with status code 404
 https://thomasorus.com: took longer then 30 sec to respond
-https://notes.neeasade.net/: took longer then 30 sec to respond
-https://notes.neeasade.net/rss.xml: took longer then 30 sec to respond
-https://notebook.wesleyac.com: took longer then 30 sec to respond
-https://notebook.wesleyac.com/atom.xml: took longer then 30 sec to respond
-https://irimi.one: took longer then 30 sec to respond
-https://irimi.one/atom.xml: took longer then 30 sec to respond
-https://wolfmd.me: took longer then 30 sec to respond
-https://wolfmd.me/feed.xml: took longer then 30 sec to respond
-https://garden.tymon-zaniewski.xyz/: took longer then 30 sec to respond
-https://void.cc: took longer then 30 sec to respond
-https://hecanjog.com: took longer then 30 sec to respond
-https://hecanjog.com/twtxt.txt: took longer then 30 sec to respond
-http://fragmentscenario.com/: took longer then 30 sec to respond
-https://mineralexistence.com/: took longer then 30 sec to respond
-https://mineralexistence.com/tw.txt: took longer then 30 sec to respond
-https://aless.co: took longer then 30 sec to respond
-https://aless.co/rss.xml: took longer then 30 sec to respond
-https://weakty.com: took longer then 30 sec to respond
+https://garden.tymon-zaniewski.xyz/: Error: getaddrinfo ENOTFOUND garden.tymon-zaniewski.xyz
+https://mineralexistence.com/: Error: getaddrinfo ENOTFOUND mineralexistence.com
+https://mineralexistence.com/tw.txt: Error: getaddrinfo ENOTFOUND mineralexistence.com
 https://0l.wtf: took longer then 30 sec to respond
 https://0l.wtf/rss.xml: took longer then 30 sec to respond
 https://0l.wtf/twtxt.txt: took longer then 30 sec to respond
-https://mrshll.com: took longer then 30 sec to respond
-https://everest-pipkin.com/: took longer then 30 sec to respond
-https://hugo.soucy.cc: took longer then 30 sec to respond
-https://hugo.soucy.cc/index.xml: took longer then 30 sec to respond
-https://darch.dk: took longer then 30 sec to respond
-https://darch.dk/twtxt.txt: took longer then 30 sec to respond
-https://darch.dk/feed/page:feed.xml: took longer then 30 sec to respond
 https://natehn.com: took longer then 30 sec to respond
 https://natehn.com/index.xml: took longer then 30 sec to respond
-https://pbat.ch: took longer then 30 sec to respond
-https://pbat.ch/twtxt.txt: took longer then 30 sec to respond
-https://dom.ink: took longer then 30 sec to respond
-https://dom.ink/tw.txt: took longer then 30 sec to respond
-https://njoqi.me: took longer then 30 sec to respond
 https://eric.jetzt: took longer then 30 sec to respond
-https://www.gr0k.net: took longer then 30 sec to respond
-https://www.gr0k.net/twtxt.txt: took longer then 30 sec to respond
-https://www.gr0k.net/blog/feed.xml: took longer then 30 sec to respond
-https://clarity.flowers: took longer then 30 sec to respond
-https://tendigits.space: took longer then 30 sec to respond
-https://tendigits.space/feed.xml: took longer then 30 sec to respond
-https://sirtetris.com: took longer then 30 sec to respond
 https://rodrigofranco.com: took longer then 30 sec to respond
 https://oppen.digital: took longer then 30 sec to respond
-https://itwont.work: took longer then 30 sec to respond
-https://itwont.work/atom.xml: took longer then 30 sec to respond
-https://badd10de.dev: took longer then 30 sec to respond
-https://nilfm.cc: took longer then 30 sec to respond
-https://nilfm.cc/twtxt.txt: took longer then 30 sec to respond
-https://wilde-at-heart.garden: took longer then 30 sec to respond
-https://wilde-at-heart.garden/txtwt.txt: took longer then 30 sec to respond
-https://wilde-at-heart.garden/notes/feed.xml: took longer then 30 sec to respond
+https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
+https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
 https://voidjumper.glass: took longer then 30 sec to respond
 https://pixouls.xyz: took longer then 30 sec to respond
 https://embyr.sh: took longer then 30 sec to respond
 https://embyr.sh/index.xml: took longer then 30 sec to respond
-https://www.maxhaesslein.de: took longer then 30 sec to respond
-https://dyslexic.ink: took longer then 30 sec to respond
-https://compudanzas.net: took longer then 30 sec to respond
-https://compudanzas.net/tw.txt: took longer then 30 sec to respond
-https://compudanzas.net/atom.xml: took longer then 30 sec to respond
-https://yhnck.xyz: took longer then 30 sec to respond
-https://astrid.tech: took longer then 30 sec to respond
-https://astrid.tech/tw.txt: took longer then 30 sec to respond
-https://astrid.tech/atom.xml: took longer then 30 sec to respond
-http://flower.codes: took longer then 30 sec to respond
-http://flower.codes/feed.xml: took longer then 30 sec to respond
-https://noelle.dev: took longer then 30 sec to respond
-https://www.giacintocarlucci.it: took longer then 30 sec to respond
-https://www.paritybit.ca: took longer then 30 sec to respond
-https://www.paritybit.ca/feed.xml: took longer then 30 sec to respond
-https://ryutaroikeda.ovh: took longer then 30 sec to respond
-https://ryutaroikeda.ovh/feed.rss: took longer then 30 sec to respond
+https://ryutaroikeda.ovh: Error: getaddrinfo ENOTFOUND ryutaroikeda.ovh
+https://ryutaroikeda.ovh/feed.rss: Error: getaddrinfo ENOTFOUND ryutaroikeda.ovh
 https://vladh.net: took longer then 30 sec to respond
 http://plastic-idolatry.com/erik: took longer then 30 sec to respond
