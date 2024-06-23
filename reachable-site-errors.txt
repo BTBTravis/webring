@@ -8,7 +8,7 @@ http://controls.ee: Error: certificate has expired
 https://underscorediscovery.ca: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: underscorediscovery.ca. is not in the cert's altnames: DNS:*.oich-staging.explorator.ca
 https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 500
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
-https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140114680575872:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
+https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140320528603008:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
 
 https://letters.vexingworkshop.com: took longer then 30 sec to respond
 http://www.miha-co.ca: Error: getaddrinfo ENOTFOUND www.miha-co.ca
@@ -26,20 +26,34 @@ https://paysonwallach.com: Error: connect ECONNREFUSED 217.70.184.38:443
 https://aklsh.now.sh: Error: Request failed with status code 404
 https://0xff.nu/feed.xml: Error: Request failed with status code 404
 https://system32.simone.computer/rss.xml: Error: getaddrinfo ENOTFOUND system32.simone.computer
+https://simply.personal.jenett.org/feed: took longer then 30 sec to respond
 https://www.materialfuture.net/rss.xml: Error: Request failed with status code 404
 https://solquemal.com/: Error: Request failed with status code 501
-https://www.romainaubert.com/twtxt.txt: Error: Request failed with status code 404
-https://www.romainaubert.com/feed.rss: Error: Request failed with status code 404
+https://dampfkraft.com/index.rss: took longer then 30 sec to respond
+https://www.romainaubert.com/: took longer then 30 sec to respond
+https://www.romainaubert.com/twtxt.txt: took longer then 30 sec to respond
+https://www.romainaubert.com/feed.rss: took longer then 30 sec to respond
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
 https://fdisk.space/rss.xml: Error: Request failed with status code 410
+https://mxmarin.ca: took longer then 30 sec to respond
+https://www.milofultz.com: took longer then 30 sec to respond
 https://milofultz.com/atom.xml: Error: Request failed with status code 404
+https://thomasorus.com: took longer then 30 sec to respond
+https://garden.tymon-zaniewski.xyz/: took longer then 30 sec to respond
 https://mineralexistence.com/: Error: getaddrinfo ENOTFOUND mineralexistence.com
 https://mineralexistence.com/tw.txt: Error: getaddrinfo ENOTFOUND mineralexistence.com
+https://natehn.com: took longer then 30 sec to respond
+https://natehn.com/index.xml: took longer then 30 sec to respond
 https://eric.jetzt: Error: getaddrinfo ENOTFOUND eric.jetzt
+https://rodrigofranco.com: took longer then 30 sec to respond
 https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
 https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
 https://voidjumper.glass: Error: connect ECONNREFUSED 128.199.33.233:443
+https://pixouls.xyz: took longer then 30 sec to respond
+https://embyr.sh: took longer then 30 sec to respond
+https://embyr.sh/index.xml: took longer then 30 sec to respond
 https://astrid.tech/tw.txt: Error: Request failed with status code 404
 https://astrid.tech/atom.xml: Error: Request failed with status code 404
 https://ryutaroikeda.ovh: Error: getaddrinfo ENOTFOUND ryutaroikeda.ovh
 https://ryutaroikeda.ovh/feed.rss: Error: getaddrinfo ENOTFOUND ryutaroikeda.ovh
+http://plastic-idolatry.com/erik: took longer then 30 sec to respond
