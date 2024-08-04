@@ -1,5 +1,5 @@
 https://electro.pizza/twtxt.txt: Error: Request failed with status code 404
-https://avanier.studio/tw.txt: Error: Request failed with status code 410
+https://avanier.studio/tw.txt: Error: Client network socket disconnected before secure TLS connection was established
 https://kaemura.com: Error: getaddrinfo ENOTFOUND kaemura.com
 https://kaemura.com/twttxt.txt: Error: getaddrinfo ENOTFOUND kaemura.com
 https://anxl.faith: Error: getaddrinfo ENOTFOUND anxl.faith
@@ -10,7 +10,7 @@ https://ameyama.com/blog/rss.xml: Error: Request failed with status code 404
 https://underscorediscovery.ca: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: underscorediscovery.ca. is not in the cert's altnames: DNS:*.oich-staging.explorator.ca
 https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 500
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
-https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 139890430117760:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
+https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140352478369664:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
 
 https://letters.vexingworkshop.com: took longer then 30 sec to respond
 http://www.miha-co.ca: Error: getaddrinfo ENOTFOUND www.miha-co.ca
@@ -22,7 +22,8 @@ https://dotcomboom.somnolescent.net/twtxt.txt: Error: self signed certificate
 https://sixey.es/feed.xml: Error: Request failed with status code 404
 https://www.raul.earth/: Error: getaddrinfo ENOTFOUND www.raul.earth
 https://provokeanalog.com: took longer then 30 sec to respond
-https://paysonwallach.com: Error: connect ECONNREFUSED 217.70.184.38:443
+https://paysonwallach.com: Error: write EPROTO 140352478369664:error:14094410:SSL routines:ssl3_read_bytes:sslv3 alert handshake failure:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1563:SSL alert number 40
+
 https://aklsh.now.sh: Error: Request failed with status code 404
 https://0xff.nu/feed.xml: Error: Request failed with status code 404
 https://system32.simone.computer/rss.xml: Error: getaddrinfo ENOTFOUND system32.simone.computer
@@ -37,9 +38,8 @@ https://inqlab.net/posts.xml: Error: certificate has expired
 https://milofultz.com/atom.xml: Error: Request failed with status code 404
 https://mineralexistence.com/: Error: getaddrinfo ENOTFOUND mineralexistence.com
 https://mineralexistence.com/tw.txt: Error: getaddrinfo ENOTFOUND mineralexistence.com
-https://hugo.soucy.cc: took longer then 30 sec to respond
-https://hugo.soucy.cc/index.xml: took longer then 30 sec to respond
 https://eric.jetzt: Error: getaddrinfo ENOTFOUND eric.jetzt
+https://oppen.digital: Error: Client network socket disconnected before secure TLS connection was established
 https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
 https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
 https://voidjumper.glass: Error: connect ECONNREFUSED 128.199.33.233:443
