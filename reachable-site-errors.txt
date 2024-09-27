@@ -9,7 +9,7 @@ http://controls.ee: Error: certificate has expired
 https://underscorediscovery.ca: Error: certificate has expired
 https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 500
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
-https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140129270605696:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
+https://t.seed.hex22.org/twtxt.txt: Error: write EPROTO 140642835720064:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:
 
 https://letters.vexingworkshop.com: Error: getaddrinfo ENOTFOUND letters.vexingworkshop.com
 http://www.miha-co.ca: Error: getaddrinfo ENOTFOUND www.miha-co.ca
@@ -27,16 +27,18 @@ https://0xff.nu/feed.xml: Error: Request failed with status code 404
 https://system32.simone.computer/rss.xml: Error: getaddrinfo ENOTFOUND system32.simone.computer
 https://www.materialfuture.net/rss.xml: Error: Request failed with status code 404
 https://solquemal.com/: Error: Request failed with status code 501
-https://futuristan.io: took longer then 30 sec to respond
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
 https://fdisk.space/rss.xml: Error: Request failed with status code 410
-https://milofultz.com/atom.xml: Error: Request failed with status code 404
+https://www.milofultz.com: Error: Client network socket disconnected before secure TLS connection was established
+https://milofultz.com/atom.xml: Error: Client network socket disconnected before secure TLS connection was established
 https://mineralexistence.com/: Error: getaddrinfo ENOTFOUND mineralexistence.com
 https://mineralexistence.com/tw.txt: Error: getaddrinfo ENOTFOUND mineralexistence.com
+https://njoqi.me: Error: Client network socket disconnected before secure TLS connection was established
 https://eric.jetzt: Error: getaddrinfo ENOTFOUND eric.jetzt
 https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
 https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
 https://voidjumper.glass: Error: connect ECONNREFUSED 128.199.33.233:443
+https://pixouls.xyz: Error: Client network socket disconnected before secure TLS connection was established
 https://astrid.tech/tw.txt: Error: Request failed with status code 404
 https://astrid.tech/atom.xml: Error: Request failed with status code 404
 https://ryutaroikeda.ovh: Error: getaddrinfo ENOTFOUND ryutaroikeda.ovh
