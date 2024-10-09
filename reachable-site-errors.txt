@@ -26,6 +26,9 @@ https://0xff.nu/feed.xml: Error: Request failed with status code 404
 https://system32.simone.computer/rss.xml: Error: getaddrinfo ENOTFOUND system32.simone.computer
 https://www.materialfuture.net/rss.xml: Error: Request failed with status code 404
 https://solquemal.com/: Error: Request failed with status code 501
+https://www.romainaubert.com/: Error: getaddrinfo ENOTFOUND www.romainaubert.com
+https://www.romainaubert.com/twtxt.txt: Error: getaddrinfo ENOTFOUND www.romainaubert.com
+https://www.romainaubert.com/feed.rss: Error: getaddrinfo ENOTFOUND www.romainaubert.com
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
 https://fdisk.space/rss.xml: Error: Request failed with status code 410
 https://milofultz.com/atom.xml: Error: Request failed with status code 404
