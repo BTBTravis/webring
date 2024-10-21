@@ -34,7 +34,8 @@ https://www.romainaubert.com/feed.rss: Error: getaddrinfo ENOTFOUND www.romainau
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
 https://fdisk.space: Error: Request failed with status code 403
 https://fdisk.space/rss.xml: Error: Request failed with status code 410
-https://milofultz.com/atom.xml: Error: Request failed with status code 404
+https://www.milofultz.com: Error: Request failed with status code 424
+https://milofultz.com/atom.xml: Error: Request failed with status code 424
 https://mineralexistence.com/: Error: getaddrinfo ENOTFOUND mineralexistence.com
 https://mineralexistence.com/tw.txt: Error: getaddrinfo ENOTFOUND mineralexistence.com
 https://hugo.soucy.cc: took longer then 30 sec to respond
@@ -43,6 +44,7 @@ https://eric.jetzt: Error: getaddrinfo ENOTFOUND eric.jetzt
 https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
 https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
 https://voidjumper.glass: Error: connect ECONNREFUSED 128.199.33.233:443
+https://pixouls.xyz: Error: Request failed with status code 424
 https://astrid.tech/tw.txt: Error: Request failed with status code 404
 https://astrid.tech/atom.xml: Error: Request failed with status code 404
 https://ryutaroikeda.ovh: Error: getaddrinfo ENOTFOUND ryutaroikeda.ovh
