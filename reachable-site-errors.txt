@@ -26,7 +26,6 @@ https://aklsh.now.sh: Error: Request failed with status code 404
 https://0xff.nu/feed.xml: Error: Request failed with status code 404
 https://system32.simone.computer/rss.xml: Error: getaddrinfo ENOTFOUND system32.simone.computer
 http://xj-ix.luxe/feed.atom: Error: Request failed with status code 404
-https://simply.personal.jenett.org/feed: took longer then 30 sec to respond
 https://www.materialfuture.net/rss.xml: Error: Request failed with status code 404
 https://solquemal.com/: Error: Request failed with status code 501
 https://www.romainaubert.com/: Error: getaddrinfo ENOTFOUND www.romainaubert.com
@@ -36,19 +35,14 @@ https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
 https://fdisk.space: Error: Request failed with status code 403
 https://fdisk.space/rss.xml: Error: Request failed with status code 410
 https://milofultz.com/atom.xml: Error: Request failed with status code 404
-https://thomasorus.com: took longer then 30 sec to respond
 https://mineralexistence.com/: Error: getaddrinfo ENOTFOUND mineralexistence.com
 https://mineralexistence.com/tw.txt: Error: getaddrinfo ENOTFOUND mineralexistence.com
 https://hugo.soucy.cc: took longer then 30 sec to respond
 https://hugo.soucy.cc/index.xml: took longer then 30 sec to respond
-https://natehn.com/index.xml: took longer then 30 sec to respond
 https://eric.jetzt: Error: getaddrinfo ENOTFOUND eric.jetzt
 https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
 https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
 https://voidjumper.glass: Error: connect ECONNREFUSED 128.199.33.233:443
-https://pixouls.xyz: took longer then 30 sec to respond
-https://embyr.sh: took longer then 30 sec to respond
-https://embyr.sh/index.xml: took longer then 30 sec to respond
 https://astrid.tech/tw.txt: Error: Request failed with status code 404
 https://astrid.tech/atom.xml: Error: Request failed with status code 404
 https://ryutaroikeda.ovh: Error: getaddrinfo ENOTFOUND ryutaroikeda.ovh
