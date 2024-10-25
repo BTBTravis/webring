@@ -37,8 +37,6 @@ https://fdisk.space/rss.xml: Error: Request failed with status code 410
 https://milofultz.com/atom.xml: Error: Request failed with status code 404
 https://mineralexistence.com/: Error: getaddrinfo ENOTFOUND mineralexistence.com
 https://mineralexistence.com/tw.txt: Error: getaddrinfo ENOTFOUND mineralexistence.com
-https://hugo.soucy.cc: took longer then 30 sec to respond
-https://hugo.soucy.cc/index.xml: took longer then 30 sec to respond
 https://eric.jetzt: Error: getaddrinfo ENOTFOUND eric.jetzt
 https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
 https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
