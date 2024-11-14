@@ -28,6 +28,7 @@ https://system32.simone.computer/rss.xml: Error: getaddrinfo ENOTFOUND system32.
 http://xj-ix.luxe/feed.atom: Error: Request failed with status code 404
 https://www.materialfuture.net/rss.xml: Error: Request failed with status code 404
 https://solquemal.com/: Error: Request failed with status code 501
+https://futuristan.io: took longer then 30 sec to respond
 https://www.romainaubert.com/: Error: getaddrinfo ENOTFOUND www.romainaubert.com
 https://www.romainaubert.com/twtxt.txt: Error: getaddrinfo ENOTFOUND www.romainaubert.com
 https://www.romainaubert.com/feed.rss: Error: getaddrinfo ENOTFOUND www.romainaubert.com
