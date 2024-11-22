@@ -3,6 +3,7 @@ https://electro.pizza/twtxt.txt: Error: Request failed with status code 404
 https://kaemura.com: Error: getaddrinfo ENOTFOUND kaemura.com
 https://kaemura.com/twttxt.txt: Error: getaddrinfo ENOTFOUND kaemura.com
 https://anxl.faith: Error: getaddrinfo ENOTFOUND anxl.faith
+https://palomakop.tv: took longer then 30 sec to respond
 https://uonai.space: Error: Request failed with status code 403
 http://controls.ee: Error: certificate has expired
 https://underscorediscovery.ca: Error: certificate has expired
