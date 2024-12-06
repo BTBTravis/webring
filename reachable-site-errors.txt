@@ -22,14 +22,14 @@ https://sixey.es/feed.xml: Error: Request failed with status code 404
 https://tilde.town/~dustin/index.xml: Error: Request failed with status code 404
 https://www.raul.earth/: Error: getaddrinfo ENOTFOUND www.raul.earth
 https://provokeanalog.com: took longer then 30 sec to respond
-https://aklsh.now.sh: Error: Request failed with status code 404
+https://aklsh.now.sh: took longer then 30 sec to respond
 https://0xff.nu/feed.xml: Error: Request failed with status code 404
 https://system32.simone.computer/rss.xml: Error: getaddrinfo ENOTFOUND system32.simone.computer
 http://xj-ix.luxe/feed.atom: Error: Request failed with status code 404
 https://www.materialfuture.net/rss.xml: Error: Request failed with status code 404
 https://solquemal.com/: Error: Request failed with status code 501
 https://www.romainaubert.com/: Error: read ECONNRESET
-https://www.romainaubert.com/twtxt.txt: Error: connect ECONNREFUSED 213.186.33.5:443
+https://www.romainaubert.com/twtxt.txt: Error: read ECONNRESET
 https://www.romainaubert.com/feed.rss: Error: read ECONNRESET
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
 https://nor.the-rn.info: Error: Request failed with status code 403
@@ -37,13 +37,16 @@ https://nor.the-rn.info/feed.xml: Error: Request failed with status code 403
 https://fdisk.space: Error: getaddrinfo ENOTFOUND fdisk.space
 https://fdisk.space/rss.xml: Error: getaddrinfo ENOTFOUND fdisk.space
 https://milofultz.com/atom.xml: Error: Request failed with status code 404
-https://garden.tymon-zaniewski.xyz/: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: garden.tymon-zaniewski.xyz. is not in the cert's altnames: DNS:*.autoconfig.stylish-dresses.com, DNS:*.cachlambo.com, DNS:*.doggydogdoorbell.com, DNS:*.electroluxyetkiliservisi.com, DNS:*.enterherbed.live, DNS:*.erotikfilmle.com, DNS:*.ghanamantrustfund.org, DNS:*.kuechenplan-kiel.de, DNS:*.latransparence.net, DNS:*.leaf-international.org, DNS:*.level4fashion.com, DNS:*.madamak.com, DNS:*.mailzeitdeal.de, DNS:*.megaempireprojectmanagement.com, DNS:*.motorsportsmexico.com, DNS:*.mreshop.de, DNS:*.musicfeedpro.com, DNS:*.payslot88.org, DNS:*.petitparadisdici.com, DNS:*.phoenixhawaii.com, DNS:*.pilkada.live, DNS:*.shchemao.com, DNS:*.stylish-dresses.com, DNS:*.tattooremovalparramatta.com.au, DNS:*.thesidehustlershub.com, DNS:*.thiswaywithmsgray.com, DNS:*.transithealth.com.au, DNS:*.wheeloffortue.com, DNS:cachlambo.com, DNS:doggydogdoorbell.com, DNS:electroluxyetkiliservisi.com, DNS:enterherbed.live, DNS:erotikfilmle.com, DNS:ghanamantrustfund.org, DNS:kuechenplan-kiel.de, DNS:latransparence.net, DNS:leaf-international.org, DNS:level4fashion.com, DNS:madamak.com, DNS:mailzeitdeal.de, DNS:megaempireprojectmanagement.com, DNS:motorsportsmexico.com, DNS:mreshop.de, DNS:musicfeedpro.com, DNS:payslot88.org, DNS:petitparadisdici.com, DNS:phoenixhawaii.com, DNS:pilkada.live, DNS:shchemao.com, DNS:stylish-dresses.com, DNS:tattooremovalparramatta.com.au, DNS:thesidehustlershub.com, DNS:thiswaywithmsgray.com, DNS:transithealth.com.au, DNS:wheeloffortue.com
+https://garden.tymon-zaniewski.xyz/: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: garden.tymon-zaniewski.xyz. is not in the cert's altnames: DNS:*.1288aus.com, DNS:*.analtraining.de, DNS:*.aorn.tv, DNS:*.bellewholesale.us, DNS:*.bestlivexperience.co, DNS:*.bolking.de, DNS:*.budgetfunerals.com.au, DNS:*.businessbookkeepingservices.com.au, DNS:*.businessmentoring.com.au, DNS:*.campingwolrd.com, DNS:*.centralcoastbusinesscoach.com.au, DNS:*.corporatetravelagents.com.au, DNS:*.fafsaaid.com, DNS:*.fokcus.de, DNS:*.frlug.de, DNS:*.gclsi.com.br, DNS:*.halifaxonlinesharedealing.co.uk, DNS:*.iyq.de, DNS:*.migraenevorbeugung.de, DNS:*.movviestowatch.cc, DNS:*.onanierbilder.de, DNS:*.popatempo.com.br, DNS:*.putamen.de, DNS:*.quickhand.site, DNS:*.radiologies.de, DNS:*.rosteringsolutions.com.au, DNS:*.samefacts.xyz, DNS:*.sportsbet.net.au, DNS:*.streaeast.cc, DNS:*.streamseast.cc, DNS:*.stromauskunt.de, DNS:*.strompreisvegleich.de, DNS:*.strompreisverlgeich.de, DNS:*.superlativ.co, DNS:*.taubenschalg.de, DNS:*.treffgirls.com, DNS:*.ultrasfrankfurt.de, DNS:*.vegetablesex.de, DNS:*.vouganharnamegasena.com, DNS:*.whippedwomen.de, DNS:*.www-aponet.de, DNS:*.xn--bruttolhne-kcb.de, DNS:*.xn--plschow-o2a.de, DNS:*.xn--wwwheilkruter-jfb.de, DNS:*.zypressse.de, DNS:1288aus.com, DNS:analtraining.de, DNS:aorn.tv, DNS:bellewholesale.us, DNS:bestlivexperience.co, DNS:bolking.de, DNS:budgetfunerals.com.au, DNS:businessbookkeepingservices.com.au, DNS:businessmentoring.com.au, DNS:campingwolrd.com, DNS:centralcoastbusinesscoach.com.au, DNS:corporatetravelagents.com.au, DNS:fafsaaid.com, DNS:fokcus.de, DNS:frlug.de, DNS:gclsi.com.br, DNS:halifaxonlinesharedealing.co.uk, DNS:iyq.de, DNS:migraenevorbeugung.de, DNS:movviestowatch.cc, DNS:onanierbilder.de, DNS:popatempo.com.br, DNS:putamen.de, DNS:quickhand.site, DNS:radiologies.de, DNS:rosteringsolutions.com.au, DNS:samefacts.xyz, DNS:sportsbet.net.au, DNS:streaeast.cc, DNS:streamseast.cc, DNS:stromauskunt.de, DNS:strompreisvegleich.de, DNS:strompreisverlgeich.de, DNS:superlativ.co, DNS:taubenschalg.de, DNS:treffgirls.com, DNS:ultrasfrankfurt.de, DNS:vegetablesex.de, DNS:vouganharnamegasena.com, DNS:whippedwomen.de, DNS:www-aponet.de, DNS:xn--bruttolhne-kcb.de, DNS:xn--plschow-o2a.de, DNS:xn--wwwheilkruter-jfb.de, DNS:zypressse.de
 https://mineralexistence.com/: Error: getaddrinfo ENOTFOUND mineralexistence.com
 https://mineralexistence.com/tw.txt: Error: getaddrinfo ENOTFOUND mineralexistence.com
+https://hugo.soucy.cc: took longer then 30 sec to respond
+https://hugo.soucy.cc/index.xml: took longer then 30 sec to respond
 https://eric.jetzt: Error: getaddrinfo ENOTFOUND eric.jetzt
 https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
 https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
 https://voidjumper.glass: Error: connect ECONNREFUSED 128.199.33.233:443
+https://pixouls.xyz: Error: Client network socket disconnected before secure TLS connection was established
 https://dyslexic.ink: took longer then 30 sec to respond
 https://astrid.tech/tw.txt: Error: Request failed with status code 404
 https://astrid.tech/atom.xml: Error: Request failed with status code 404
