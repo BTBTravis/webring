@@ -22,14 +22,14 @@ https://sixey.es/feed.xml: Error: Request failed with status code 404
 https://tilde.town/~dustin/index.xml: Error: Request failed with status code 404
 https://www.raul.earth/: Error: getaddrinfo ENOTFOUND www.raul.earth
 https://provokeanalog.com: took longer then 30 sec to respond
-https://aklsh.now.sh: took longer then 30 sec to respond
+https://aklsh.now.sh: Error: Request failed with status code 404
 https://0xff.nu/feed.xml: Error: Request failed with status code 404
 https://system32.simone.computer/rss.xml: Error: getaddrinfo ENOTFOUND system32.simone.computer
 http://xj-ix.luxe/feed.atom: Error: Request failed with status code 404
 https://www.materialfuture.net/rss.xml: Error: Request failed with status code 404
 https://solquemal.com/: Error: Request failed with status code 501
 https://www.romainaubert.com/: Error: read ECONNRESET
-https://www.romainaubert.com/twtxt.txt: Error: read ECONNRESET
+https://www.romainaubert.com/twtxt.txt: Error: connect ECONNREFUSED 213.186.33.5:443
 https://www.romainaubert.com/feed.rss: Error: read ECONNRESET
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
 https://nor.the-rn.info: Error: Request failed with status code 403
@@ -37,16 +37,13 @@ https://nor.the-rn.info/feed.xml: Error: Request failed with status code 403
 https://fdisk.space: Error: getaddrinfo ENOTFOUND fdisk.space
 https://fdisk.space/rss.xml: Error: getaddrinfo ENOTFOUND fdisk.space
 https://milofultz.com/atom.xml: Error: Request failed with status code 404
-https://garden.tymon-zaniewski.xyz/: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: garden.tymon-zaniewski.xyz. is not in the cert's altnames: DNS:*.1288aus.com, DNS:*.analtraining.de, DNS:*.aorn.tv, DNS:*.bellewholesale.us, DNS:*.bestlivexperience.co, DNS:*.bolking.de, DNS:*.budgetfunerals.com.au, DNS:*.businessbookkeepingservices.com.au, DNS:*.businessmentoring.com.au, DNS:*.campingwolrd.com, DNS:*.centralcoastbusinesscoach.com.au, DNS:*.corporatetravelagents.com.au, DNS:*.fafsaaid.com, DNS:*.fokcus.de, DNS:*.frlug.de, DNS:*.gclsi.com.br, DNS:*.halifaxonlinesharedealing.co.uk, DNS:*.iyq.de, DNS:*.migraenevorbeugung.de, DNS:*.movviestowatch.cc, DNS:*.onanierbilder.de, DNS:*.popatempo.com.br, DNS:*.putamen.de, DNS:*.quickhand.site, DNS:*.radiologies.de, DNS:*.rosteringsolutions.com.au, DNS:*.samefacts.xyz, DNS:*.sportsbet.net.au, DNS:*.streaeast.cc, DNS:*.streamseast.cc, DNS:*.stromauskunt.de, DNS:*.strompreisvegleich.de, DNS:*.strompreisverlgeich.de, DNS:*.superlativ.co, DNS:*.taubenschalg.de, DNS:*.treffgirls.com, DNS:*.ultrasfrankfurt.de, DNS:*.vegetablesex.de, DNS:*.vouganharnamegasena.com, DNS:*.whippedwomen.de, DNS:*.www-aponet.de, DNS:*.xn--bruttolhne-kcb.de, DNS:*.xn--plschow-o2a.de, DNS:*.xn--wwwheilkruter-jfb.de, DNS:*.zypressse.de, DNS:1288aus.com, DNS:analtraining.de, DNS:aorn.tv, DNS:bellewholesale.us, DNS:bestlivexperience.co, DNS:bolking.de, DNS:budgetfunerals.com.au, DNS:businessbookkeepingservices.com.au, DNS:businessmentoring.com.au, DNS:campingwolrd.com, DNS:centralcoastbusinesscoach.com.au, DNS:corporatetravelagents.com.au, DNS:fafsaaid.com, DNS:fokcus.de, DNS:frlug.de, DNS:gclsi.com.br, DNS:halifaxonlinesharedealing.co.uk, DNS:iyq.de, DNS:migraenevorbeugung.de, DNS:movviestowatch.cc, DNS:onanierbilder.de, DNS:popatempo.com.br, DNS:putamen.de, DNS:quickhand.site, DNS:radiologies.de, DNS:rosteringsolutions.com.au, DNS:samefacts.xyz, DNS:sportsbet.net.au, DNS:streaeast.cc, DNS:streamseast.cc, DNS:stromauskunt.de, DNS:strompreisvegleich.de, DNS:strompreisverlgeich.de, DNS:superlativ.co, DNS:taubenschalg.de, DNS:treffgirls.com, DNS:ultrasfrankfurt.de, DNS:vegetablesex.de, DNS:vouganharnamegasena.com, DNS:whippedwomen.de, DNS:www-aponet.de, DNS:xn--bruttolhne-kcb.de, DNS:xn--plschow-o2a.de, DNS:xn--wwwheilkruter-jfb.de, DNS:zypressse.de
+https://garden.tymon-zaniewski.xyz/: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: garden.tymon-zaniewski.xyz. is not in the cert's altnames: DNS:*.33ofjuly.com, DNS:*.4gsinhvien.com, DNS:*.alibabai.site, DNS:*.animated.today, DNS:*.boamente.co, DNS:*.datacoach.online, DNS:*.electroapp.store, DNS:*.escortsinecuador.com, DNS:*.euroreformas.com, DNS:*.jziw.club, DNS:*.morende.de, DNS:*.mosikschule.de, DNS:*.nakeangle.club, DNS:*.neue17.de, DNS:*.newbalande.de, DNS:*.newjerseyrealestate.club, DNS:*.nexusedge.net.au, DNS:*.nimguem.de, DNS:*.ninascheidmante.de, DNS:*.novotelgmbh.de, DNS:*.nqse.de, DNS:*.nutriopharm.de, DNS:*.oberschwabengruen.de, DNS:*.papaia.store, DNS:*.pastoralkolleg-wuerttemberg.de, DNS:*.paterskaffeewirtschaft.de, DNS:*.petras-angels.de, DNS:*.pferdeklinik-in-parsdeof.de, DNS:*.pintinho.de, DNS:*.pokiblinde-kuh.de, DNS:*.ponle.de, DNS:*.portugol.de, DNS:*.prodigylink.de, DNS:*.prostitutky.de, DNS:*.prosys-warstein.de, DNS:*.provift.de, DNS:*.ptimedia.de, DNS:*.put-in-writing.de, DNS:*.qis-th-luebeck.de, DNS:*.redrooster-club.de, DNS:*.scdggmbh.de, DNS:*.therealoem.de, DNS:*.volksbank-berge.de, DNS:*.westermann-finn.de, DNS:*.wwsarkassen-kreditkarten.de, DNS:33ofjuly.com, DNS:4gsinhvien.com, DNS:alibabai.site, DNS:animated.today, DNS:boamente.co, DNS:datacoach.online, DNS:electroapp.store, DNS:escortsinecuador.com, DNS:euroreformas.com, DNS:jziw.club, DNS:morende.de, DNS:mosikschule.de, DNS:nakeangle.club, DNS:neue17.de, DNS:newbalande.de, DNS:newjerseyrealestate.club, DNS:nexusedge.net.au, DNS:nimguem.de, DNS:ninascheidmante.de, DNS:novotelgmbh.de, DNS:nqse.de, DNS:nutriopharm.de, DNS:oberschwabengruen.de, DNS:papaia.store, DNS:pastoralkolleg-wuerttemberg.de, DNS:paterskaffeewirtschaft.de, DNS:petras-angels.de, DNS:pferdeklinik-in-parsdeof.de, DNS:pintinho.de, DNS:pokiblinde-kuh.de, DNS:ponle.de, DNS:portugol.de, DNS:prodigylink.de, DNS:prostitutky.de, DNS:prosys-warstein.de, DNS:provift.de, DNS:ptimedia.de, DNS:put-in-writing.de, DNS:qis-th-luebeck.de, DNS:redrooster-club.de, DNS:scdggmbh.de, DNS:therealoem.de, DNS:volksbank-berge.de, DNS:westermann-finn.de, DNS:wwsarkassen-kreditkarten.de
 https://mineralexistence.com/: Error: getaddrinfo ENOTFOUND mineralexistence.com
 https://mineralexistence.com/tw.txt: Error: getaddrinfo ENOTFOUND mineralexistence.com
-https://hugo.soucy.cc: took longer then 30 sec to respond
-https://hugo.soucy.cc/index.xml: took longer then 30 sec to respond
 https://eric.jetzt: Error: getaddrinfo ENOTFOUND eric.jetzt
 https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
 https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
 https://voidjumper.glass: Error: connect ECONNREFUSED 128.199.33.233:443
-https://pixouls.xyz: Error: Client network socket disconnected before secure TLS connection was established
 https://dyslexic.ink: took longer then 30 sec to respond
 https://astrid.tech/tw.txt: Error: Request failed with status code 404
 https://astrid.tech/atom.xml: Error: Request failed with status code 404
