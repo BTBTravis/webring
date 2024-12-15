@@ -10,7 +10,6 @@ http://controls.ee: Error: certificate has expired
 https://underscorediscovery.ca: Error: certificate has expired
 https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 500
 http://memoriata.com: Error: getaddrinfo ENOTFOUND memoriata.com
-https://chad.is/rss.xml: Error: Request failed with status code 404
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
 https://t.seed.hex22.org/twtxt.txt: Error: Client network socket disconnected before secure TLS connection was established
 https://letters.vexingworkshop.com: Error: getaddrinfo ENOTFOUND letters.vexingworkshop.com
@@ -18,8 +17,6 @@ http://www.miha-co.ca: Error: getaddrinfo ENOTFOUND www.miha-co.ca
 https://txt.eli.li/twtxt/twtxt.txt: Error: getaddrinfo ENOTFOUND txt.eli.li
 https://gueorgui.net: took longer then 30 sec to respond
 https://gueorgui.net/feed.xml: took longer then 30 sec to respond
-https://oddworlds.org: took longer then 30 sec to respond
-https://oddworlds.org/rss.xml: took longer then 30 sec to respond
 https://dotcomboom.somnolescent.net/: Error: self signed certificate
 https://dotcomboom.somnolescent.net/twtxt.txt: Error: self signed certificate
 https://sixey.es/feed.xml: Error: Request failed with status code 404
@@ -41,6 +38,7 @@ https://nor.the-rn.info/feed.xml: Error: Request failed with status code 403
 https://fdisk.space: Error: getaddrinfo ENOTFOUND fdisk.space
 https://fdisk.space/rss.xml: Error: getaddrinfo ENOTFOUND fdisk.space
 https://milofultz.com/atom.xml: Error: Request failed with status code 404
+https://thomasorus.com: took longer then 30 sec to respond
 https://garden.tymon-zaniewski.xyz/: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: garden.tymon-zaniewski.xyz. is not in the cert's altnames: DNS:*.131-shelbmgiaccessfedpl.kohld.com, DNS:*.acumen.store, DNS:*.admdysonmarksandspencer.kohld.com, DNS:*.advertising-dyson.kohld.com, DNS:*.america-ncg0-phx3-apps.kohld.com, DNS:*.app-qa-ncg0-phx3-app-qa.kohld.com, DNS:*.bastion-ncg0-phx3-apps.kohld.com, DNS:*.bikash.store, DNS:*.cgi-ncg0-phx3-apps.kohld.com, DNS:*.cheat-engine.online, DNS:*.cluster-stg-ncg0-phx3-apps.kohld.com, DNS:*.commoditybazaar.co, DNS:*.contact-ncg0-phx3-contact.kohld.com, DNS:*.corporation-dyson.kohld.com, DNS:*.dcl14-administrators-phx3.kohld.com, DNS:*.dcl14-ncg0-phx3-dev1.kohld.com, DNS:*.dcl14-ncg0-phx3-sftp.kohld.com, DNS:*.dcl14-ncg0-phx3.kohld.com, DNS:*.dcl14-ncg0-phx3citrix.kohld.com, DNS:*.dcl14-ncg0-phx3cms-qa.kohld.com, DNS:*.dcl14-payment-phx3.kohld.com, DNS:*.dclmyaccount-ncg0-phx3.kohld.com, DNS:*.delulu.store, DNS:*.dyson-paeuc1-coprpute.kohld.com, DNS:*.dyson-paeuc1-dnsmpute.kohld.com, DNS:*.dyson17arksandspencer.kohld.com, DNS:*.dysonmarksandspencerjob.kohld.com, DNS:*.dysonmarksandspsvncer.kohld.com, DNS:*.dysonmarksaneshoppencer.kohld.com, DNS:*.dysonmarksanregionpencer.kohld.com, DNS:*.dysonmx1arksandspencer.kohld.com, DNS:*.eupodz01c6513r0002-dyson.kohld.com, DNS:*.heximeal.com, DNS:*.huffpostmaghreb-batch.kohld.com, DNS:*.huffpostmaghreb-cf.kohld.com, DNS:*.huffpostmaghreb-console.kohld.com, DNS:*.huffpostmaghreb-dns.kohld.com, DNS:*.huffpostmaghreb-gitlab.kohld.com, DNS:*.huffpostmaghreb-norwayeast.kohld.com, DNS:*.huffpostmaghreb-profiles.kohld.com, DNS:*.huffpostmaghreb-registry.kohld.com, DNS:*.huffpostmaghreb-sg.kohld.com, DNS:*.huffpostmaghreb-ssh.kohld.com, DNS:*.juicymp3.cc, DNS:*.kohld.com, DNS:*.ladybugpaints.com, DNS:*.logon-ncg0-phx3-apps.kohld.com, DNS:*.madoomoviefree.online, DNS:*.mdf001ffxmrs0002-brand.kohld.com, DNS:*.mdf001ffxmrs0002-config.kohld.com, DNS:*.mdf001ffxmrs0002-dash.kohld.com, DNS:*.mdf001ffxmrs0002-engine.kohld.com, DNS:*.mdf001ffxmrs0002-latin.kohld.com, DNS:*.mdf001ffxmrs0002-team2.kohld.com, DNS:*.nexttv.site, DNS:*.nonprod-ncg0-phx3-apps.kohld.com, DNS:*.pmgtworkscommunityemail.kohld.com, DNS:*.push-ncg0-phx3-apps.kohld.com, DNS:*.rarerecord.io, DNS:*.registra.online, DNS:*.rivolutplayer.store, DNS:*.scarymazegames.net, DNS:*.shbmgicanadaeastcs58.kohld.com, DNS:*.shbmgielasticcs5insights.kohld.com, DNS:*.shbmgimdashboa02api.kohld.com, DNS:*.shbmgimdashboardapicms-qa.kohld.com, DNS:*.shbmgimdashboardapifiles.kohld.com, DNS:*.shbmgizoomin152no01a.kohld.com, DNS:*.shbmgtrainingwebshare-nova.kohld.com, DNS:*.shstmgiwestshare-nova.kohld.com, DNS:*.splunk-ncg0-phx3-apps.kohld.com, DNS:*.tarapaca1037.cl, DNS:*.useast1-ncg0-phx3-useast1.kohld.com, DNS:*.v7workscommunity-dyson.kohld.com, DNS:acumen.store, DNS:bikash.store, DNS:cheat-engine.online, DNS:commoditybazaar.co, DNS:delulu.store, DNS:heximeal.com, DNS:juicymp3.cc, DNS:kohld.com, DNS:ladybugpaints.com, DNS:madoomoviefree.online, DNS:nexttv.site, DNS:rarerecord.io, DNS:registra.online, DNS:rivolutplayer.store, DNS:scarymazegames.net, DNS:tarapaca1037.cl
 https://mineralexistence.com/: Error: getaddrinfo ENOTFOUND mineralexistence.com
 https://mineralexistence.com/tw.txt: Error: getaddrinfo ENOTFOUND mineralexistence.com
@@ -48,8 +46,11 @@ https://eric.jetzt: Error: getaddrinfo ENOTFOUND eric.jetzt
 https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
 https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
 https://voidjumper.glass: Error: connect ECONNREFUSED 128.199.33.233:443
+https://pixouls.xyz: took longer then 30 sec to respond
+https://embyr.sh/index.xml: took longer then 30 sec to respond
 https://dyslexic.ink: took longer then 30 sec to respond
 https://astrid.tech/tw.txt: Error: Request failed with status code 404
 https://astrid.tech/atom.xml: Error: Request failed with status code 404
 https://ryutaroikeda.ovh: Error: getaddrinfo ENOTFOUND ryutaroikeda.ovh
 https://ryutaroikeda.ovh/feed.rss: Error: getaddrinfo ENOTFOUND ryutaroikeda.ovh
+https://vladh.net: took longer then 30 sec to respond
