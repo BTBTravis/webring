@@ -38,10 +38,11 @@ https://nor.the-rn.info/feed.xml: Error: Request failed with status code 403
 https://fdisk.space: Error: Request failed with status code 404
 https://fdisk.space/rss.xml: Error: Request failed with status code 404
 https://milofultz.com/atom.xml: Error: Request failed with status code 404
+https://garden.tymon-zaniewski.xyz/: Error: getaddrinfo EAI_AGAIN garden.tymon-zaniewski.xyz
 https://mineralexistence.com/tw.txt: Error: Request failed with status code 404
 https://eric.jetzt: Error: getaddrinfo ENOTFOUND eric.jetzt
-https://nilfm.cc: Error: certificate has expired
-https://nilfm.cc/twtxt.txt: Error: certificate has expired
+https://nilfm.cc: took longer then 30 sec to respond
+https://nilfm.cc/twtxt.txt: took longer then 30 sec to respond
 https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
 https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
 https://voidjumper.glass: Error: connect ECONNREFUSED 128.199.33.233:443
