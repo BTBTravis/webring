@@ -26,12 +26,12 @@ https://sixey.es/feed.xml: Error: Request failed with status code 404
 https://tilde.town/~dustin/index.xml: Error: Request failed with status code 404
 https://www.raul.earth/: Error: getaddrinfo ENOTFOUND www.raul.earth
 https://provokeanalog.com: took longer then 30 sec to respond
+https://natwelch.com: took longer then 30 sec to respond
+https://writing.natwelch.com/feed.rss: took longer then 30 sec to respond
 https://aklsh.now.sh: Error: Request failed with status code 404
 https://0xff.nu/feed.xml: Error: Request failed with status code 404
 https://system32.simone.computer/rss.xml: Error: getaddrinfo ENOTFOUND system32.simone.computer
 http://xj-ix.luxe/feed.atom: Error: Request failed with status code 404
-https://roytang.net: took longer then 30 sec to respond
-https://roytang.net/index.xml: took longer then 30 sec to respond
 https://materialfuture.net: took longer then 30 sec to respond
 https://www.materialfuture.net/rss.xml: took longer then 30 sec to respond
 https://solquemal.com/: Error: Request failed with status code 501
