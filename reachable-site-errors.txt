@@ -5,6 +5,7 @@ https://avanier.studio/tw.txt: Error: getaddrinfo ENOTFOUND avanier.studio
 https://kaemura.com: Error: getaddrinfo ENOTFOUND kaemura.com
 https://kaemura.com/twttxt.txt: Error: getaddrinfo ENOTFOUND kaemura.com
 https://anxl.faith: Error: getaddrinfo ENOTFOUND anxl.faith
+https://ellugar.co: Error: read ECONNRESET
 https://uonai.space: Error: Request failed with status code 403
 https://ameyama.com/blog/rss.xml: Error: Request failed with status code 404
 https://underscorediscovery.ca: Error: certificate has expired
@@ -32,9 +33,10 @@ http://xj-ix.luxe/feed.atom: Error: Request failed with status code 404
 https://materialfuture.net: took longer then 30 sec to respond
 https://www.materialfuture.net/rss.xml: took longer then 30 sec to respond
 https://solquemal.com/: Error: Request failed with status code 501
+https://futuristan.io: took longer then 30 sec to respond
 https://www.romainaubert.com/: Error: read ECONNRESET
 https://www.romainaubert.com/twtxt.txt: Error: read ECONNRESET
-https://www.romainaubert.com/feed.rss: Error: read ECONNRESET
+https://www.romainaubert.com/feed.rss: Error: connect ECONNREFUSED 213.186.33.5:443
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
 https://nor.the-rn.info: Error: Request failed with status code 403
 https://nor.the-rn.info/feed.xml: Error: Request failed with status code 403
@@ -42,8 +44,7 @@ https://fdisk.space: Error: Request failed with status code 404
 https://fdisk.space/rss.xml: Error: Request failed with status code 404
 https://mxmarin.ca: took longer then 30 sec to respond
 https://milofultz.com/atom.xml: Error: Request failed with status code 404
-https://mineralexistence.com/: took longer then 30 sec to respond
-https://mineralexistence.com/tw.txt: took longer then 30 sec to respond
+https://mineralexistence.com/tw.txt: Error: Request failed with status code 404
 https://eric.jetzt: Error: getaddrinfo ENOTFOUND eric.jetzt
 https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
 https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
