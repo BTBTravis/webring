@@ -23,6 +23,8 @@ https://fundor333.com/twtxt.txt: Error: Request failed with status code 404
 https://dotcomboom.somnolescent.net/twtxt.txt: Error: Request failed with status code 404
 https://sixey.es/feed.xml: Error: Request failed with status code 404
 https://tilde.town/~dustin/index.xml: Error: Request failed with status code 404
+http://www.jameschip.io: Error: certificate has expired
+http://www.jameschip.io/index.xml: Error: certificate has expired
 https://www.raul.earth/: Error: getaddrinfo ENOTFOUND www.raul.earth
 https://provokeanalog.com: took longer then 30 sec to respond
 https://aklsh.now.sh: Error: Request failed with status code 404
@@ -45,7 +47,10 @@ https://fdisk.space: Error: Request failed with status code 404
 https://fdisk.space/rss.xml: Error: Request failed with status code 404
 https://mxmarin.ca: Error: Request failed with status code 403
 https://milofultz.com/atom.xml: Error: Request failed with status code 404
+https://hecanjog.com: Error: Request failed with status code 502
+https://hecanjog.com/twtxt.txt: Error: Request failed with status code 502
 https://mineralexistence.com/tw.txt: Error: Request failed with status code 404
+https://0l.wtf/twtxt.txt: Error: certificate has expired
 https://eric.jetzt: Error: getaddrinfo ENOTFOUND eric.jetzt
 https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
 https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
