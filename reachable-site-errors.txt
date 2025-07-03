@@ -6,7 +6,8 @@ https://kaemura.com: Error: getaddrinfo ENOTFOUND kaemura.com
 https://kaemura.com/twttxt.txt: Error: getaddrinfo ENOTFOUND kaemura.com
 https://anxl.faith: Error: getaddrinfo ENOTFOUND anxl.faith
 https://uonai.space: Error: Request failed with status code 403
-https://ameyama.com/blog/rss.xml: Error: Request failed with status code 404
+https://ameyama.com: took longer then 30 sec to respond
+https://ameyama.com/blog/rss.xml: took longer then 30 sec to respond
 https://underscorediscovery.ca: Error: certificate has expired
 https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 500
 http://memoriata.com: Error: getaddrinfo ENOTFOUND memoriata.com
@@ -22,8 +23,6 @@ https://gueorgui.net/feed.xml: took longer then 30 sec to respond
 https://oddworlds.org/rss.xml: Error: Request failed with status code 404
 https://fundor333.com/twtxt.txt: Error: Request failed with status code 404
 https://dotcomboom.somnolescent.net/twtxt.txt: Error: Request failed with status code 404
-https://resevoir.net: Error: getaddrinfo EAI_AGAIN resevoir.net
-https://resevoir.net/rss.xml: Error: getaddrinfo EAI_AGAIN resevoir.net
 https://sixey.es/feed.xml: Error: Request failed with status code 404
 https://tilde.town/~dustin/index.xml: Error: Request failed with status code 404
 http://www.jameschip.io: Error: certificate has expired
