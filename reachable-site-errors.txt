@@ -36,6 +36,8 @@ https://azlen.me/twtxt.txt: took longer then 30 sec to respond
 https://oddworlds.org/rss.xml: Error: Request failed with status code 404
 https://fundor333.com/twtxt.txt: Error: Request failed with status code 404
 https://dotcomboom.somnolescent.net/twtxt.txt: Error: Request failed with status code 404
+https://resevoir.net: Error: getaddrinfo ENOTFOUND resevoir.net
+https://resevoir.net/rss.xml: Error: getaddrinfo ENOTFOUND resevoir.net
 https://sixey.es/feed.xml: Error: Request failed with status code 404
 https://tilde.town/~dustin/index.xml: Error: Request failed with status code 404
 http://www.jameschip.io: took longer then 30 sec to respond
@@ -65,7 +67,7 @@ https://travisshears.com/index.xml: Error: Request failed with status code 404
 https://awalvie.me: took longer then 30 sec to respond
 https://futuristan.io: took longer then 30 sec to respond
 https://www.romainaubert.com/: Error: read ECONNRESET
-https://www.romainaubert.com/twtxt.txt: Error: read ECONNRESET
+https://www.romainaubert.com/twtxt.txt: Error: connect ECONNREFUSED 213.186.33.5:443
 https://www.romainaubert.com/feed.rss: Error: read ECONNRESET
 https://www.juliendesrosiers.com/: took longer then 30 sec to respond
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
@@ -73,7 +75,6 @@ https://nor.the-rn.info: Error: Request failed with status code 403
 https://nor.the-rn.info/feed.xml: Error: Request failed with status code 403
 https://fdisk.space: Error: Request failed with status code 404
 https://fdisk.space/rss.xml: Error: Request failed with status code 404
-https://inqlab.net/posts.xml: took longer then 30 sec to respond
 https://mxmarin.ca: took longer then 30 sec to respond
 https://www.milofultz.com: took longer then 30 sec to respond
 https://milofultz.com/atom.xml: Error: Request failed with status code 404
@@ -92,16 +93,11 @@ https://voidjumper.glass: Error: connect ECONNREFUSED 128.199.33.233:443
 https://pixouls.xyz: took longer then 30 sec to respond
 https://embyr.sh: took longer then 30 sec to respond
 https://embyr.sh/index.xml: took longer then 30 sec to respond
-https://www.maxhaesslein.de: took longer then 30 sec to respond
 https://dyslexic.ink: took longer then 30 sec to respond
-https://compudanzas.net/atom.xml: took longer then 30 sec to respond
-https://yhnck.xyz: took longer then 30 sec to respond
 https://astrid.tech/tw.txt: Error: Request failed with status code 404
 https://astrid.tech/atom.xml: Error: Request failed with status code 404
 http://flower.codes: took longer then 30 sec to respond
 http://flower.codes/feed.xml: took longer then 30 sec to respond
-https://noelle.dev: took longer then 30 sec to respond
-https://www.giacintocarlucci.it: took longer then 30 sec to respond
 https://www.paritybit.ca: took longer then 30 sec to respond
 https://www.paritybit.ca/feed.xml: took longer then 30 sec to respond
 https://ryutaroikeda.ovh: took longer then 30 sec to respond
