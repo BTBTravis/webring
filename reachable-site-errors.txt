@@ -36,6 +36,7 @@ https://aklsh.now.sh: Error: Request failed with status code 404
 https://0xff.nu/feed.xml: Error: Request failed with status code 404
 https://system32.simone.computer/rss.xml: Error: getaddrinfo ENOTFOUND system32.simone.computer
 http://xj-ix.luxe/feed.atom: Error: Request failed with status code 404
+https://amorphic.space: took longer then 30 sec to respond
 https://materialfuture.net: took longer then 30 sec to respond
 https://www.materialfuture.net/rss.xml: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: www.materialfuture.net. is not in the cert's altnames: DNS:*.netlify.app, DNS:netlify.app
 https://solquemal.com/: Error: Request failed with status code 501
@@ -43,14 +44,15 @@ https://travisshears.com/apps/twtxt/twtxt.txt: Error: Request failed with status
 https://travisshears.com/index.xml: Error: Request failed with status code 404
 https://futuristan.io: took longer then 30 sec to respond
 https://www.romainaubert.com/: Error: read ECONNRESET
-https://www.romainaubert.com/twtxt.txt: Error: connect ECONNREFUSED 213.186.33.5:443
-https://www.romainaubert.com/feed.rss: Error: read ECONNRESET
+https://www.romainaubert.com/twtxt.txt: Error: read ECONNRESET
+https://www.romainaubert.com/feed.rss: Error: connect ECONNREFUSED 213.186.33.5:443
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
 https://nor.the-rn.info: Error: Request failed with status code 403
 https://nor.the-rn.info/feed.xml: Error: Request failed with status code 403
 https://fdisk.space: Error: Request failed with status code 404
 https://fdisk.space/rss.xml: Error: Request failed with status code 404
 https://mxmarin.ca: Error: Request failed with status code 403
+https://www.milofultz.com: Error: socket hang up
 https://milofultz.com/atom.xml: Error: Request failed with status code 404
 https://mineralexistence.com/tw.txt: Error: Request failed with status code 404
 https://eric.jetzt: Error: getaddrinfo ENOTFOUND eric.jetzt
