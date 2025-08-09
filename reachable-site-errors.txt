@@ -5,6 +5,7 @@ https://avanier.studio/tw.txt: Error: getaddrinfo ENOTFOUND avanier.studio
 https://kaemura.com: Error: getaddrinfo ENOTFOUND kaemura.com
 https://kaemura.com/twttxt.txt: Error: getaddrinfo ENOTFOUND kaemura.com
 https://anxl.faith: Error: getaddrinfo ENOTFOUND anxl.faith
+https://2d4.dev: Error: socket hang up
 https://uonai.space: Error: Request failed with status code 403
 https://ameyama.com/blog/rss.xml: Error: Request failed with status code 404
 https://underscorediscovery.ca: Error: certificate has expired
@@ -21,7 +22,6 @@ https://lublin.se/twtxt.txt: Error: Request failed with status code 404
 https://txt.eli.li/twtxt/twtxt.txt: Error: getaddrinfo ENOTFOUND txt.eli.li
 https://gueorgui.net: took longer then 30 sec to respond
 https://gueorgui.net/feed.xml: took longer then 30 sec to respond
-https://www.tatecarson.com: took longer then 30 sec to respond
 https://oddworlds.org/rss.xml: Error: Request failed with status code 404
 https://fundor333.com/twtxt.txt: Error: Request failed with status code 404
 https://dotcomboom.somnolescent.net/twtxt.txt: Error: Request failed with status code 404
@@ -34,19 +34,18 @@ http://www.jameschip.io/index.xml: Error: certificate has expired
 https://www.raul.earth/: Error: getaddrinfo ENOTFOUND www.raul.earth
 https://provokeanalog.com: Error: getaddrinfo ENOTFOUND provokeanalog.com
 https://aklsh.now.sh: Error: Request failed with status code 404
-https://0xff.nu: Error: Request failed with status code 404
 https://0xff.nu/feed.xml: Error: Request failed with status code 404
 https://system32.simone.computer/rss.xml: Error: getaddrinfo ENOTFOUND system32.simone.computer
 http://xj-ix.luxe/feed.atom: Error: Request failed with status code 404
-https://amorphic.space: took longer then 30 sec to respond
 https://materialfuture.net: took longer then 30 sec to respond
 https://www.materialfuture.net/rss.xml: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: www.materialfuture.net. is not in the cert's altnames: DNS:*.netlify.app, DNS:netlify.app
 https://solquemal.com/: Error: Request failed with status code 501
 https://travisshears.com/apps/twtxt/twtxt.txt: Error: Request failed with status code 404
 https://travisshears.com/index.xml: Error: Request failed with status code 404
+https://futuristan.io: took longer then 30 sec to respond
 https://www.romainaubert.com/: Error: read ECONNRESET
 https://www.romainaubert.com/twtxt.txt: Error: read ECONNRESET
-https://www.romainaubert.com/feed.rss: Error: read ECONNRESET
+https://www.romainaubert.com/feed.rss: Error: connect ECONNREFUSED 213.186.33.5:443
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
 https://nor.the-rn.info: Error: Request failed with status code 403
 https://nor.the-rn.info/feed.xml: Error: Request failed with status code 403
