@@ -51,6 +51,7 @@ https://nor.the-rn.info/feed.xml: Error: Request failed with status code 403
 https://fdisk.space: Error: Request failed with status code 404
 https://fdisk.space/rss.xml: Error: Request failed with status code 404
 https://mxmarin.ca: Error: Request failed with status code 403
+https://www.milofultz.com: Error: socket hang up
 https://milofultz.com/atom.xml: Error: Request failed with status code 404
 https://garden.tymon-zaniewski.xyz/: Error: getaddrinfo ENOTFOUND garden.tymon-zaniewski.xyz
 https://mineralexistence.com/tw.txt: Error: Request failed with status code 404
