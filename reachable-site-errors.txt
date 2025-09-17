@@ -5,7 +5,6 @@ https://avanier.studio/tw.txt: Error: getaddrinfo ENOTFOUND avanier.studio
 https://kaemura.com: Error: getaddrinfo ENOTFOUND kaemura.com
 https://kaemura.com/twttxt.txt: Error: getaddrinfo ENOTFOUND kaemura.com
 https://anxl.faith: Error: getaddrinfo ENOTFOUND anxl.faith
-https://ellugar.co: took longer then 30 sec to respond
 https://uonai.space: Error: Request failed with status code 403
 https://ameyama.com: Error: Request failed with status code 429
 https://ameyama.com/blog/rss.xml: Error: Request failed with status code 429
@@ -33,7 +32,6 @@ https://sixey.es/feed.xml: Error: Request failed with status code 404
 https://tilde.town/~dustin/index.xml: Error: Request failed with status code 404
 https://www.raul.earth/: Error: getaddrinfo ENOTFOUND www.raul.earth
 https://provokeanalog.com: Error: getaddrinfo ENOTFOUND provokeanalog.com
-https://parkimminent.com: Error: getaddrinfo ENOTFOUND parkimminent.com
 https://aklsh.now.sh: Error: Request failed with status code 404
 https://0xff.nu/feed.xml: Error: Request failed with status code 404
 https://system32.simone.computer/rss.xml: Error: getaddrinfo ENOTFOUND system32.simone.computer
