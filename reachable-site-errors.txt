@@ -8,6 +8,7 @@ https://anxl.faith: Error: getaddrinfo ENOTFOUND anxl.faith
 https://uonai.space: Error: Request failed with status code 403
 https://ameyama.com: Error: Request failed with status code 429
 https://ameyama.com/blog/rss.xml: Error: Request failed with status code 429
+http://nonmateria.com/rss.xml: Error: Request failed with status code 503
 https://underscorediscovery.ca: Error: getaddrinfo ENOTFOUND underscorediscovery.ca
 https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 500
 http://memoriata.com: Error: getaddrinfo ENOTFOUND memoriata.com
@@ -19,7 +20,9 @@ https://letters.vexingworkshop.com: Error: getaddrinfo ENOTFOUND letters.vexingw
 https://tom.so: Error: Request failed with status code 403
 http://www.miha-co.ca: Error: getaddrinfo ENOTFOUND www.miha-co.ca
 https://lublin.se/twtxt.txt: Error: Request failed with status code 404
+https://eli.li: Error: Request failed with status code 403
 https://txt.eli.li/twtxt/twtxt.txt: Error: getaddrinfo ENOTFOUND txt.eli.li
+https://eli.li/feed.rss: Error: Request failed with status code 403
 https://gueorgui.net: took longer then 30 sec to respond
 https://gueorgui.net/feed.xml: took longer then 30 sec to respond
 https://oddworlds.org/rss.xml: Error: Request failed with status code 404
