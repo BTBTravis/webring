@@ -5,7 +5,7 @@ https://avanier.studio/tw.txt: Error: getaddrinfo ENOTFOUND avanier.studio
 https://kaemura.com: Error: getaddrinfo ENOTFOUND kaemura.com
 https://kaemura.com/twttxt.txt: Error: getaddrinfo ENOTFOUND kaemura.com
 https://anxl.faith: Error: getaddrinfo ENOTFOUND anxl.faith
-https://2d4.dev/tw.txt: took longer then 30 sec to respond
+https://2d4.dev: took longer then 30 sec to respond
 https://uonai.space: Error: Request failed with status code 403
 https://ameyama.com: Error: Request failed with status code 429
 https://ameyama.com/blog/rss.xml: Error: Request failed with status code 429
@@ -14,6 +14,7 @@ https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 500
 http://memoriata.com: Error: getaddrinfo ENOTFOUND memoriata.com
 https://smidgeo.com/bots: Error: Request failed with status code 403
 https://iko.soy: Error: Request failed with status code 403
+https://phse.net: Error: read ECONNRESET
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
 https://gndclouds.cc: Error: connect ECONNREFUSED 34.92.123.71:443
 https://t.seed.hex22.org/twtxt.txt: Error: Client network socket disconnected before secure TLS connection was established
@@ -26,7 +27,6 @@ https://txt.eli.li/twtxt/twtxt.txt: Error: getaddrinfo ENOTFOUND txt.eli.li
 https://eli.li/feed.rss: Error: Request failed with status code 403
 https://gueorgui.net: took longer then 30 sec to respond
 https://gueorgui.net/feed.xml: took longer then 30 sec to respond
-https://opguides.info: Error: error request aborted
 https://oddworlds.org/rss.xml: Error: Request failed with status code 404
 https://fundor333.com/twtxt.txt: Error: Request failed with status code 404
 https://dotcomboom.somnolescent.net/twtxt.txt: Error: Request failed with status code 404
@@ -36,17 +36,16 @@ https://sixey.es/feed.xml: Error: Request failed with status code 404
 https://tilde.town/~dustin/index.xml: Error: Request failed with status code 404
 https://www.raul.earth/: Error: getaddrinfo ENOTFOUND www.raul.earth
 https://provokeanalog.com: Error: getaddrinfo ENOTFOUND provokeanalog.com
+https://parkimminent.com: Error: getaddrinfo ENOTFOUND parkimminent.com
 https://aklsh.now.sh: Error: Request failed with status code 404
 https://0xff.nu/feed.xml: Error: Request failed with status code 404
 https://system32.simone.computer/rss.xml: Error: getaddrinfo ENOTFOUND system32.simone.computer
 http://xj-ix.luxe/feed.atom: Error: Request failed with status code 404
 https://zvava.org: Error: Request failed with status code 403
-https://amorphic.space: took longer then 30 sec to respond
 https://www.materialfuture.net/rss.xml: Error: getaddrinfo ENOTFOUND www.materialfuture.net
 https://solquemal.com/: Error: Request failed with status code 501
 https://travisshears.com/apps/twtxt/twtxt.txt: Error: Request failed with status code 404
 https://travisshears.com/index.xml: Error: Request failed with status code 404
-https://futuristan.io: took longer then 30 sec to respond
 https://www.romainaubert.com/: Error: read ECONNRESET
 https://www.romainaubert.com/twtxt.txt: Error: read ECONNRESET
 https://www.romainaubert.com/feed.rss: Error: read ECONNRESET
