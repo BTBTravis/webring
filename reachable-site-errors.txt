@@ -5,8 +5,7 @@ https://avanier.studio/tw.txt: Error: getaddrinfo ENOTFOUND avanier.studio
 https://kaemura.com: Error: getaddrinfo ENOTFOUND kaemura.com
 https://kaemura.com/twttxt.txt: Error: getaddrinfo ENOTFOUND kaemura.com
 https://anxl.faith: Error: getaddrinfo ENOTFOUND anxl.faith
-https://palomakop.tv: Error: socket hang up
-https://2d4.dev/tw.txt: took longer then 30 sec to respond
+https://palomakop.tv: took longer then 30 sec to respond
 https://uonai.space: Error: Request failed with status code 403
 https://ameyama.com: Error: Request failed with status code 429
 https://ameyama.com/blog/rss.xml: Error: Request failed with status code 429
@@ -42,12 +41,16 @@ https://0xff.nu/feed.xml: Error: Request failed with status code 404
 https://system32.simone.computer/rss.xml: Error: getaddrinfo ENOTFOUND system32.simone.computer
 http://xj-ix.luxe/feed.atom: Error: Request failed with status code 404
 https://zvava.org: Error: Request failed with status code 403
+https://amorphic.space: took longer then 30 sec to respond
+https://www.edwinwenink.xyz/index.xml: took longer then 30 sec to respond
+https://www.mentalnodes.com/sitemap.xml: took longer then 30 sec to respond
 https://www.materialfuture.net/rss.xml: Error: getaddrinfo ENOTFOUND www.materialfuture.net
 https://solquemal.com/: Error: Request failed with status code 501
 https://travisshears.com/apps/twtxt/twtxt.txt: Error: Request failed with status code 404
 https://travisshears.com/index.xml: Error: Request failed with status code 404
+https://futuristan.io: took longer then 30 sec to respond
 https://www.romainaubert.com/: Error: read ECONNRESET
-https://www.romainaubert.com/twtxt.txt: Error: read ECONNRESET
+https://www.romainaubert.com/twtxt.txt: Error: connect ECONNREFUSED 213.186.33.5:443
 https://www.romainaubert.com/feed.rss: Error: read ECONNRESET
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
 https://nor.the-rn.info: Error: Request failed with status code 403
