@@ -5,7 +5,6 @@ https://avanier.studio/tw.txt: Error: getaddrinfo ENOTFOUND avanier.studio
 https://kaemura.com: Error: getaddrinfo ENOTFOUND kaemura.com
 https://kaemura.com/twttxt.txt: Error: getaddrinfo ENOTFOUND kaemura.com
 https://anxl.faith: Error: getaddrinfo ENOTFOUND anxl.faith
-https://palomakop.tv: took longer then 30 sec to respond
 https://uonai.space: Error: socket hang up
 https://ameyama.com/blog/rss.xml: Error: Request failed with status code 404
 https://underscorediscovery.ca: Error: getaddrinfo ENOTFOUND underscorediscovery.ca
@@ -19,8 +18,7 @@ https://t.seed.hex22.org/twtxt.txt: Error: Client network socket disconnected be
 https://letters.vexingworkshop.com: Error: getaddrinfo ENOTFOUND letters.vexingworkshop.com
 https://tom.so: Error: Request failed with status code 403
 http://www.miha-co.ca: Error: getaddrinfo ENOTFOUND www.miha-co.ca
-https://lublin.se: took longer then 30 sec to respond
-https://lublin.se/twtxt.txt: took longer then 30 sec to respond
+https://lublin.se/twtxt.txt: Error: Request failed with status code 404
 https://eli.li: Error: Request failed with status code 403
 https://txt.eli.li/twtxt/twtxt.txt: Error: getaddrinfo ENOTFOUND txt.eli.li
 https://eli.li/feed.rss: Error: Request failed with status code 403
@@ -48,7 +46,7 @@ https://travisshears.com/index.xml: Error: Request failed with status code 404
 https://futuristan.io: took longer then 30 sec to respond
 https://www.romainaubert.com/: Error: read ECONNRESET
 https://www.romainaubert.com/twtxt.txt: Error: read ECONNRESET
-https://www.romainaubert.com/feed.rss: Error: read ECONNRESET
+https://www.romainaubert.com/feed.rss: Error: connect ECONNREFUSED 213.186.33.5:443
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
 https://nor.the-rn.info: Error: Request failed with status code 403
 https://nor.the-rn.info/feed.xml: Error: Request failed with status code 403
@@ -65,6 +63,7 @@ https://hugo.soucy.cc: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does no
 https://hugo.soucy.cc/index.xml: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: hugo.soucy.cc. is not in the cert's altnames: DNS:soucy.cc
 https://eric.jetzt: Error: getaddrinfo ENOTFOUND eric.jetzt
 https://tendigits.space: took longer then 30 sec to respond
+https://oppen.digital: took longer then 30 sec to respond
 https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
 https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
 https://voidjumper.glass: took longer then 30 sec to respond
