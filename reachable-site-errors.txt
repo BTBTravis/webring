@@ -5,8 +5,6 @@ https://avanier.studio/tw.txt: Error: getaddrinfo ENOTFOUND avanier.studio
 https://kaemura.com: Error: getaddrinfo ENOTFOUND kaemura.com
 https://kaemura.com/twttxt.txt: Error: getaddrinfo ENOTFOUND kaemura.com
 https://anxl.faith: Error: getaddrinfo ENOTFOUND anxl.faith
-https://palomakop.tv: took longer then 30 sec to respond
-https://2d4.dev/tw.txt: Error: Client network socket disconnected before secure TLS connection was established
 https://uonai.space: Error: socket hang up
 https://ameyama.com/blog/rss.xml: Error: Request failed with status code 404
 https://underscorediscovery.ca: Error: getaddrinfo ENOTFOUND underscorediscovery.ca
@@ -20,7 +18,8 @@ https://t.seed.hex22.org/twtxt.txt: Error: Client network socket disconnected be
 https://letters.vexingworkshop.com: Error: getaddrinfo ENOTFOUND letters.vexingworkshop.com
 https://tom.so: Error: Request failed with status code 403
 http://www.miha-co.ca: Error: getaddrinfo ENOTFOUND www.miha-co.ca
-https://lublin.se/twtxt.txt: Error: Request failed with status code 404
+https://lublin.se: took longer then 30 sec to respond
+https://lublin.se/twtxt.txt: took longer then 30 sec to respond
 https://eli.li: Error: Request failed with status code 403
 https://txt.eli.li/twtxt/twtxt.txt: Error: getaddrinfo ENOTFOUND txt.eli.li
 https://eli.li/feed.rss: Error: Request failed with status code 403
@@ -56,13 +55,13 @@ https://fdisk.space: Error: Request failed with status code 404
 https://fdisk.space/rss.xml: Error: Request failed with status code 404
 https://milofultz.com/atom.xml: Error: Request failed with status code 404
 https://irimi.one/atom.xml: Error: Request failed with status code 500
-https://garden.tymon-zaniewski.xyz/: took longer then 30 sec to respond
 https://mineralexistence.com/tw.txt: Error: Request failed with status code 404
 https://weakty.com: Error: Request failed with status code 403
 https://0l.wtf: Error: getaddrinfo ENOTFOUND 0l.wtf
 https://0l.wtf/rss.xml: Error: getaddrinfo ENOTFOUND 0l.wtf
 https://0l.wtf/twtxt.txt: Error: getaddrinfo ENOTFOUND 0l.wtf
 https://eric.jetzt: Error: getaddrinfo ENOTFOUND eric.jetzt
+https://oppen.digital: took longer then 30 sec to respond
 https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
 https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
 https://voidjumper.glass: took longer then 30 sec to respond
