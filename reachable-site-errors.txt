@@ -18,8 +18,7 @@ https://t.seed.hex22.org/twtxt.txt: Error: Client network socket disconnected be
 https://letters.vexingworkshop.com: Error: getaddrinfo ENOTFOUND letters.vexingworkshop.com
 https://tom.so: Error: Request failed with status code 403
 http://www.miha-co.ca: Error: getaddrinfo ENOTFOUND www.miha-co.ca
-https://lublin.se: took longer then 30 sec to respond
-https://lublin.se/twtxt.txt: took longer then 30 sec to respond
+https://lublin.se/twtxt.txt: Error: Request failed with status code 404
 https://eli.li: Error: Request failed with status code 403
 https://txt.eli.li/twtxt/twtxt.txt: Error: getaddrinfo ENOTFOUND txt.eli.li
 https://eli.li/feed.rss: Error: Request failed with status code 403
@@ -34,12 +33,10 @@ https://sixey.es/feed.xml: Error: Request failed with status code 404
 https://tilde.town/~dustin/index.xml: Error: Request failed with status code 404
 https://www.raul.earth/: Error: getaddrinfo ENOTFOUND www.raul.earth
 https://provokeanalog.com: Error: getaddrinfo ENOTFOUND provokeanalog.com
-https://parkimminent.com: Error: getaddrinfo ENOTFOUND parkimminent.com
 https://aklsh.now.sh: Error: Request failed with status code 404
 https://system32.simone.computer/rss.xml: Error: getaddrinfo ENOTFOUND system32.simone.computer
 http://xj-ix.luxe/feed.atom: Error: Request failed with status code 404
 https://zvava.org: Error: Request failed with status code 403
-https://amorphic.space: took longer then 30 sec to respond
 https://www.materialfuture.net/rss.xml: Error: getaddrinfo ENOTFOUND www.materialfuture.net
 https://solquemal.com/: Error: Request failed with status code 501
 https://travisshears.com/apps/twtxt/twtxt.txt: Error: Request failed with status code 404
@@ -47,7 +44,7 @@ https://travisshears.com/index.xml: Error: Request failed with status code 404
 https://futuristan.io: took longer then 30 sec to respond
 https://www.romainaubert.com/: Error: read ECONNRESET
 https://www.romainaubert.com/twtxt.txt: Error: read ECONNRESET
-https://www.romainaubert.com/feed.rss: Error: connect ECONNREFUSED 213.186.33.5:443
+https://www.romainaubert.com/feed.rss: Error: read ECONNRESET
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
 https://nor.the-rn.info: Error: Request failed with status code 403
 https://nor.the-rn.info/feed.xml: Error: Request failed with status code 403
@@ -65,7 +62,7 @@ https://oppen.digital: took longer then 30 sec to respond
 https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
 https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
 https://voidjumper.glass: took longer then 30 sec to respond
-https://dyslexic.ink: took longer then 30 sec to respond
+https://dyslexic.ink: Error [ERR_FR_TOO_MANY_REDIRECTS]: Maximum number of redirects exceeded
 https://astrid.tech/tw.txt: Error: Request failed with status code 404
 https://astrid.tech/atom.xml: Error: Request failed with status code 404
 https://ryutaroikeda.ovh: Error: getaddrinfo ENOTFOUND ryutaroikeda.ovh
