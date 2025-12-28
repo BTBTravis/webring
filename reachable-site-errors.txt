@@ -6,8 +6,8 @@ https://kaemura.com: Error: getaddrinfo ENOTFOUND kaemura.com
 https://kaemura.com/twttxt.txt: Error: getaddrinfo ENOTFOUND kaemura.com
 https://anxl.faith: Error: getaddrinfo ENOTFOUND anxl.faith
 https://stecko.website: Error: getaddrinfo ENOTFOUND stecko.website
-https://now.lectronice.com: Error: Request failed with status code 403
-https://now.lectronice.com/feed.xml: Error: Request failed with status code 403
+https://palomakop.tv: Error: read ECONNRESET
+https://2d4.dev/tw.txt: took longer then 30 sec to respond
 https://uonai.space: Error: getaddrinfo ENOTFOUND uonai.space
 https://ameyama.com/blog/rss.xml: Error: Request failed with status code 404
 https://underscorediscovery.ca: Error: getaddrinfo ENOTFOUND underscorediscovery.ca
@@ -36,6 +36,7 @@ https://sixey.es/feed.xml: Error: Request failed with status code 404
 https://tilde.town/~dustin/index.xml: Error: Request failed with status code 404
 https://www.raul.earth/: Error: getaddrinfo ENOTFOUND www.raul.earth
 https://provokeanalog.com: Error: getaddrinfo ENOTFOUND provokeanalog.com
+https://parkimminent.com: Error: Request failed with status code 403
 https://aklsh.now.sh: Error: Request failed with status code 404
 https://system32.simone.computer/rss.xml: Error: getaddrinfo ENOTFOUND system32.simone.computer
 http://xj-ix.luxe/feed.atom: Error: Request failed with status code 404
@@ -44,7 +45,6 @@ https://www.materialfuture.net/rss.xml: Error: getaddrinfo ENOTFOUND www.materia
 https://solquemal.com/: Error: Request failed with status code 501
 https://travisshears.com/apps/twtxt/twtxt.txt: Error: Request failed with status code 404
 https://travisshears.com/index.xml: Error: Request failed with status code 404
-https://futuristan.io: took longer then 30 sec to respond
 https://www.romainaubert.com/: Error: read ECONNRESET
 https://www.romainaubert.com/twtxt.txt: Error: read ECONNRESET
 https://www.romainaubert.com/feed.rss: Error: read ECONNRESET
@@ -61,18 +61,12 @@ https://0l.wtf: Error: getaddrinfo ENOTFOUND 0l.wtf
 https://0l.wtf/rss.xml: Error: getaddrinfo ENOTFOUND 0l.wtf
 https://0l.wtf/twtxt.txt: Error: getaddrinfo ENOTFOUND 0l.wtf
 https://hugo.soucy.cc/index.xml: Error: Request failed with status code 404
-https://natehn.com/index.xml: took longer then 30 sec to respond
 https://eric.jetzt: Error: getaddrinfo ENOTFOUND eric.jetzt
-https://tendigits.space: took longer then 30 sec to respond
-https://rodrigofranco.com: took longer then 30 sec to respond
 https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
 https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
 https://voidjumper.glass: took longer then 30 sec to respond
-https://embyr.sh: took longer then 30 sec to respond
-https://embyr.sh/index.xml: took longer then 30 sec to respond
 https://dyslexic.ink: took longer then 30 sec to respond
 https://astrid.tech/tw.txt: Error: Request failed with status code 404
 https://astrid.tech/atom.xml: Error: Request failed with status code 404
 https://ryutaroikeda.ovh: Error: getaddrinfo ENOTFOUND ryutaroikeda.ovh
 https://ryutaroikeda.ovh/feed.rss: Error: getaddrinfo ENOTFOUND ryutaroikeda.ovh
-https://vladh.net: took longer then 30 sec to respond
