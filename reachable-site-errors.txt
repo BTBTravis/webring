@@ -6,10 +6,7 @@ https://kaemura.com: Error: getaddrinfo ENOTFOUND kaemura.com
 https://kaemura.com/twttxt.txt: Error: getaddrinfo ENOTFOUND kaemura.com
 https://anxl.faith: Error: getaddrinfo ENOTFOUND anxl.faith
 https://stecko.website: Error: getaddrinfo ENOTFOUND stecko.website
-https://now.lectronice.com: took longer then 30 sec to respond
-https://now.lectronice.com/feed.xml: took longer then 30 sec to respond
-https://2d4.dev: took longer then 30 sec to respond
-https://2d4.dev/tw.txt: took longer then 30 sec to respond
+https://palomakop.tv: Error: read ECONNRESET
 https://uonai.space: Error: getaddrinfo ENOTFOUND uonai.space
 https://ameyama.com/blog/rss.xml: Error: Request failed with status code 404
 https://underscorediscovery.ca: Error: getaddrinfo ENOTFOUND underscorediscovery.ca
@@ -38,6 +35,8 @@ https://resevoir.net: Error: getaddrinfo ENOTFOUND resevoir.net
 https://resevoir.net/rss.xml: Error: getaddrinfo ENOTFOUND resevoir.net
 https://sixey.es/feed.xml: Error: Request failed with status code 404
 https://tilde.town/~dustin/index.xml: Error: Request failed with status code 404
+https://icyphox.sh: took longer then 30 sec to respond
+https://icyphox.sh/blog/feed.xml: took longer then 30 sec to respond
 https://www.raul.earth/: Error: getaddrinfo ENOTFOUND www.raul.earth
 https://provokeanalog.com: Error: getaddrinfo ENOTFOUND provokeanalog.com
 https://parkimminent.com: Error: Request failed with status code 403
@@ -45,14 +44,15 @@ https://aklsh.now.sh: Error: Request failed with status code 404
 https://system32.simone.computer/rss.xml: Error: getaddrinfo ENOTFOUND system32.simone.computer
 http://xj-ix.luxe/feed.atom: Error: Request failed with status code 404
 https://zvava.org: Error: Request failed with status code 403
+https://amorphic.space: took longer then 30 sec to respond
+https://www.edwinwenink.xyz/index.xml: Error: Client network socket disconnected before secure TLS connection was established
 https://www.materialfuture.net/rss.xml: Error: getaddrinfo ENOTFOUND www.materialfuture.net
 https://solquemal.com/: Error: Request failed with status code 501
 https://travisshears.com/apps/twtxt/twtxt.txt: Error: Request failed with status code 404
 https://travisshears.com/index.xml: Error: Request failed with status code 404
-https://futuristan.io: took longer then 30 sec to respond
 https://www.romainaubert.com/: Error: read ECONNRESET
 https://www.romainaubert.com/twtxt.txt: Error: read ECONNRESET
-https://www.romainaubert.com/feed.rss: Error: connect ECONNREFUSED 213.186.33.5:443
+https://www.romainaubert.com/feed.rss: Error: read ECONNRESET
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
 https://nor.the-rn.info: Error: Request failed with status code 403
 https://nor.the-rn.info/feed.xml: Error: Request failed with status code 403
@@ -67,7 +67,6 @@ https://0l.wtf/rss.xml: Error: getaddrinfo ENOTFOUND 0l.wtf
 https://0l.wtf/twtxt.txt: Error: getaddrinfo ENOTFOUND 0l.wtf
 https://hugo.soucy.cc/index.xml: Error: Request failed with status code 404
 https://eric.jetzt: Error: getaddrinfo ENOTFOUND eric.jetzt
-https://oppen.digital: took longer then 30 sec to respond
 https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
 https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
 https://voidjumper.glass: took longer then 30 sec to respond
