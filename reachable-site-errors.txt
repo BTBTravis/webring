@@ -6,6 +6,7 @@ https://kaemura.com: Error: getaddrinfo ENOTFOUND kaemura.com
 https://kaemura.com/twttxt.txt: Error: getaddrinfo ENOTFOUND kaemura.com
 https://anxl.faith: Error: getaddrinfo ENOTFOUND anxl.faith
 https://stecko.website: Error: getaddrinfo ENOTFOUND stecko.website
+https://2d4.dev/tw.txt: took longer then 30 sec to respond
 https://uonai.space: Error: getaddrinfo ENOTFOUND uonai.space
 https://ameyama.com/blog/rss.xml: Error: Request failed with status code 404
 https://underscorediscovery.ca: Error: getaddrinfo ENOTFOUND underscorediscovery.ca
@@ -13,7 +14,6 @@ https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 500
 http://memoriata.com: Error: getaddrinfo ENOTFOUND memoriata.com
 https://smidgeo.com/bots: Error: Request failed with status code 403
 https://iko.soy: Error: Request failed with status code 403
-https://phse.net: took longer then 30 sec to respond
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
 https://gndclouds.cc: Error: connect ECONNREFUSED 34.92.123.71:443
 https://t.seed.hex22.org/twtxt.txt: Error: Client network socket disconnected before secure TLS connection was established
@@ -40,13 +40,11 @@ https://provokeanalog.com: Error: getaddrinfo ENOTFOUND provokeanalog.com
 https://aklsh.now.sh: Error: Request failed with status code 404
 https://system32.simone.computer/rss.xml: Error: getaddrinfo ENOTFOUND system32.simone.computer
 http://xj-ix.luxe/feed.atom: Error: Request failed with status code 404
-https://simply.personal.jenett.org/feed: took longer then 30 sec to respond
 https://zvava.org: Error: Request failed with status code 403
 https://www.materialfuture.net/rss.xml: Error: getaddrinfo ENOTFOUND www.materialfuture.net
 https://solquemal.com/: Error: Request failed with status code 501
 https://travisshears.com/apps/twtxt/twtxt.txt: Error: Request failed with status code 404
 https://travisshears.com/index.xml: Error: Request failed with status code 404
-https://awalvie.me: took longer then 30 sec to respond
 https://www.romainaubert.com/: Error: read ECONNRESET
 https://www.romainaubert.com/twtxt.txt: Error: read ECONNRESET
 https://www.romainaubert.com/feed.rss: Error: connect ECONNREFUSED 213.186.33.5:443
@@ -55,9 +53,8 @@ https://ix5.org/thoughts/feeds/all.atom.xml: Error: certificate has expired
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
 https://nor.the-rn.info: Error: Request failed with status code 403
 https://nor.the-rn.info/feed.xml: Error: Request failed with status code 403
-https://fdisk.space: Error: self signed certificate
-https://fdisk.space/rss.xml: Error: self signed certificate
-https://www.milofultz.com: took longer then 30 sec to respond
+https://fdisk.space: Error: socket hang up
+https://fdisk.space/rss.xml: Error: socket hang up
 https://milofultz.com/atom.xml: Error: Request failed with status code 404
 https://irimi.one/atom.xml: Error: Request failed with status code 500
 https://mineralexistence.com/: Error: socket hang up
@@ -67,20 +64,12 @@ https://0l.wtf: Error: getaddrinfo ENOTFOUND 0l.wtf
 https://0l.wtf/rss.xml: Error: getaddrinfo ENOTFOUND 0l.wtf
 https://0l.wtf/twtxt.txt: Error: getaddrinfo ENOTFOUND 0l.wtf
 https://hugo.soucy.cc/index.xml: Error: Request failed with status code 404
-https://natehn.com: took longer then 30 sec to respond
-https://natehn.com/index.xml: took longer then 30 sec to respond
 https://eric.jetzt: Error: getaddrinfo ENOTFOUND eric.jetzt
-https://rodrigofranco.com: took longer then 30 sec to respond
 https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
 https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
 https://voidjumper.glass: took longer then 30 sec to respond
-https://pixouls.xyz: took longer then 30 sec to respond
-https://embyr.sh: took longer then 30 sec to respond
-https://embyr.sh/index.xml: took longer then 30 sec to respond
 https://dyslexic.ink: took longer then 30 sec to respond
 https://astrid.tech/tw.txt: Error: Request failed with status code 404
 https://astrid.tech/atom.xml: Error: Request failed with status code 404
 https://ryutaroikeda.ovh: Error: getaddrinfo ENOTFOUND ryutaroikeda.ovh
 https://ryutaroikeda.ovh/feed.rss: Error: getaddrinfo ENOTFOUND ryutaroikeda.ovh
-https://vladh.net: took longer then 30 sec to respond
-http://plastic-idolatry.com/erik: took longer then 30 sec to respond
