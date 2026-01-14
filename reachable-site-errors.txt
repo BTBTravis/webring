@@ -6,7 +6,7 @@ https://kaemura.com: Error: getaddrinfo ENOTFOUND kaemura.com
 https://kaemura.com/twttxt.txt: Error: getaddrinfo ENOTFOUND kaemura.com
 https://anxl.faith: Error: getaddrinfo ENOTFOUND anxl.faith
 https://stecko.website: Error: getaddrinfo ENOTFOUND stecko.website
-https://palomakop.tv: took longer then 30 sec to respond
+https://palomakop.tv: Error: socket hang up
 https://uonai.space: Error: getaddrinfo ENOTFOUND uonai.space
 https://ameyama.com/blog/rss.xml: Error: Request failed with status code 404
 https://underscorediscovery.ca: Error: getaddrinfo ENOTFOUND underscorediscovery.ca
@@ -33,7 +33,8 @@ https://fundor333.com/twtxt.txt: Error: Request failed with status code 404
 https://dotcomboom.somnolescent.net/twtxt.txt: Error: Request failed with status code 404
 https://resevoir.net: Error: getaddrinfo ENOTFOUND resevoir.net
 https://resevoir.net/rss.xml: Error: getaddrinfo ENOTFOUND resevoir.net
-https://sixey.es/feed.xml: Error: Request failed with status code 404
+https://sixey.es/: Error: certificate has expired
+https://sixey.es/feed.xml: Error: certificate has expired
 https://tilde.town/~dustin/index.xml: Error: Request failed with status code 404
 https://www.raul.earth/: Error: getaddrinfo ENOTFOUND www.raul.earth
 https://provokeanalog.com: Error: getaddrinfo ENOTFOUND provokeanalog.com
@@ -41,15 +42,17 @@ https://aklsh.now.sh: Error: Request failed with status code 404
 https://system32.simone.computer/rss.xml: Error: getaddrinfo ENOTFOUND system32.simone.computer
 http://xj-ix.luxe/feed.atom: Error: Request failed with status code 404
 https://zvava.org: Error: Request failed with status code 403
+https://amorphic.space: took longer then 30 sec to respond
+https://www.edwinwenink.xyz: Error: read ECONNRESET
+https://www.edwinwenink.xyz/index.xml: Error: read ECONNRESET
 https://www.materialfuture.net/rss.xml: Error: getaddrinfo ENOTFOUND www.materialfuture.net
 https://solquemal.com/: Error: Request failed with status code 501
 https://travisshears.com/apps/twtxt/twtxt.txt: Error: Request failed with status code 404
 https://travisshears.com/index.xml: Error: Request failed with status code 404
+https://futuristan.io: took longer then 30 sec to respond
 https://www.romainaubert.com/: Error: read ECONNRESET
 https://www.romainaubert.com/twtxt.txt: Error: read ECONNRESET
-https://www.romainaubert.com/feed.rss: Error: connect ECONNREFUSED 213.186.33.5:443
-https://ix5.org/: Error: certificate has expired
-https://ix5.org/thoughts/feeds/all.atom.xml: Error: certificate has expired
+https://www.romainaubert.com/feed.rss: Error: read ECONNRESET
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
 https://nor.the-rn.info: Error: Request failed with status code 403
 https://nor.the-rn.info/feed.xml: Error: Request failed with status code 403
@@ -57,7 +60,6 @@ https://fdisk.space: Error: socket hang up
 https://fdisk.space/rss.xml: Error: socket hang up
 https://milofultz.com/atom.xml: Error: Request failed with status code 404
 https://irimi.one/atom.xml: Error: Request failed with status code 500
-https://garden.tymon-zaniewski.xyz/: took longer then 30 sec to respond
 https://mineralexistence.com/: Error: socket hang up
 https://mineralexistence.com/tw.txt: Error: socket hang up
 https://weakty.com: Error: Request failed with status code 403
