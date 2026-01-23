@@ -5,11 +5,11 @@ https://avanier.studio/tw.txt: Error: getaddrinfo ENOTFOUND avanier.studio
 https://kaemura.com: Error: getaddrinfo ENOTFOUND kaemura.com
 https://kaemura.com/twttxt.txt: Error: getaddrinfo ENOTFOUND kaemura.com
 https://anxl.faith: Error: getaddrinfo ENOTFOUND anxl.faith
-https://heracl.es: Error: write EPROTO 140275129781184:error:14094438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1563:SSL alert number 80
+https://heracl.es: Error: write EPROTO 140580145945536:error:14094438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1563:SSL alert number 80
 
 https://stecko.website: Error: getaddrinfo ENOTFOUND stecko.website
+https://ellugar.co: took longer then 30 sec to respond
 https://uonai.space: Error: getaddrinfo ENOTFOUND uonai.space
-http://kokorobot.ca: took longer then 30 sec to respond
 https://ameyama.com/blog/rss.xml: Error: Request failed with status code 404
 https://underscorediscovery.ca: Error: getaddrinfo ENOTFOUND underscorediscovery.ca
 https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 500
@@ -43,7 +43,6 @@ https://aklsh.now.sh: Error: Request failed with status code 404
 https://system32.simone.computer/rss.xml: Error: getaddrinfo ENOTFOUND system32.simone.computer
 http://xj-ix.luxe/feed.atom: Error: Request failed with status code 404
 https://zvava.org: Error: Request failed with status code 403
-https://amorphic.space: took longer then 30 sec to respond
 https://www.materialfuture.net/rss.xml: Error: getaddrinfo ENOTFOUND www.materialfuture.net
 https://solquemal.com/: Error: Request failed with status code 501
 https://travisshears.com/apps/twtxt/twtxt.txt: Error: Request failed with status code 404
@@ -51,7 +50,7 @@ https://travisshears.com/index.xml: Error: Request failed with status code 404
 https://futuristan.io: took longer then 30 sec to respond
 https://www.romainaubert.com/: Error: read ECONNRESET
 https://www.romainaubert.com/twtxt.txt: Error: read ECONNRESET
-https://www.romainaubert.com/feed.rss: Error: connect ECONNREFUSED 213.186.33.5:443
+https://www.romainaubert.com/feed.rss: Error: read ECONNRESET
 https://nchrs.xyz/rss.xml: Error: Request failed with status code 404
 https://nor.the-rn.info: Error: Request failed with status code 403
 https://nor.the-rn.info/feed.xml: Error: Request failed with status code 403
@@ -71,7 +70,6 @@ https://natehn.com: Error: connect ECONNREFUSED 161.35.254.54:443
 https://natehn.com/index.xml: Error: connect ECONNREFUSED 161.35.254.54:443
 https://njoqi.me: Error: getaddrinfo ENOTFOUND njoqi.me
 https://eric.jetzt: Error: getaddrinfo ENOTFOUND eric.jetzt
-https://oppen.digital: took longer then 30 sec to respond
 https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
 https://wilde-at-heart.garden/notes/feed.xml: Error: Request failed with status code 404
 https://voidjumper.glass: took longer then 30 sec to respond
