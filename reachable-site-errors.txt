@@ -6,7 +6,8 @@ https://kaemura.com: Error: getaddrinfo ENOTFOUND kaemura.com
 https://kaemura.com/twttxt.txt: Error: getaddrinfo ENOTFOUND kaemura.com
 https://anxl.faith: Error: getaddrinfo ENOTFOUND anxl.faith
 https://stecko.website: Error: getaddrinfo ENOTFOUND stecko.website
-https://palomakop.tv: took longer then 30 sec to respond
+https://ellugar.co: took longer then 30 sec to respond
+https://palomakop.tv: Error: socket hang up
 https://uonai.space: Error: getaddrinfo ENOTFOUND uonai.space
 https://ameyama.com/blog/rss.xml: Error: Request failed with status code 404
 https://alex.zyzhang.me: Error: Request failed with status code 404
@@ -15,18 +16,21 @@ https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 404
 http://memoriata.com: Error: getaddrinfo ENOTFOUND memoriata.com
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
 https://gndclouds.cc: Error: connect ECONNREFUSED 34.92.123.71:443
+https://boffosocko.com: Error: Request failed with status code 500
 https://t.seed.hex22.org/twtxt.txt: Error: Client network socket disconnected before secure TLS connection was established
 https://letters.vexingworkshop.com: Error: getaddrinfo ENOTFOUND letters.vexingworkshop.com
 https://tom.so: Error: Request failed with status code 403
 http://www.miha-co.ca: Error: getaddrinfo ENOTFOUND www.miha-co.ca
 https://serocell.com: took longer then 30 sec to respond
 https://serocell.com/feeds/serocell.xml: took longer then 30 sec to respond
-https://lublin.se/twtxt.txt: Error: Request failed with status code 404
+https://lublin.se: took longer then 30 sec to respond
+https://lublin.se/twtxt.txt: took longer then 30 sec to respond
 https://eli.li: Error: Request failed with status code 403
 https://txt.eli.li/twtxt/twtxt.txt: Error: getaddrinfo ENOTFOUND txt.eli.li
 https://eli.li/feed.rss: Error: Request failed with status code 403
 https://gueorgui.net: took longer then 30 sec to respond
 https://gueorgui.net/feed.xml: took longer then 30 sec to respond
+https://www.tatecarson.com: took longer then 30 sec to respond
 https://oddworlds.org/rss.xml: Error: Request failed with status code 404
 https://fundor333.com/twtxt.txt: Error: Request failed with status code 404
 https://dotcomboom.somnolescent.net/twtxt.txt: Error: Request failed with status code 404
@@ -49,7 +53,7 @@ https://travisshears.com/index.xml: Error: Request failed with status code 404
 https://futuristan.io: took longer then 30 sec to respond
 https://www.romainaubert.com/: Error: read ECONNRESET
 https://www.romainaubert.com/twtxt.txt: Error: read ECONNRESET
-https://www.romainaubert.com/feed.rss: Error: read ECONNRESET
+https://www.romainaubert.com/feed.rss: Error: connect ECONNREFUSED 213.186.33.5:443
 https://nor.the-rn.info: Error: Request failed with status code 403
 https://nor.the-rn.info/feed.xml: Error: Request failed with status code 403
 https://mxmarin.ca: Error: Request failed with status code 403
@@ -63,9 +67,9 @@ https://0l.wtf/rss.xml: Error: getaddrinfo ENOTFOUND 0l.wtf
 https://0l.wtf/twtxt.txt: Error: getaddrinfo ENOTFOUND 0l.wtf
 https://hugo.soucy.cc: took longer then 30 sec to respond
 https://hugo.soucy.cc/index.xml: took longer then 30 sec to respond
-https://natehn.com: Error: write EPROTO 140702747564992:error:14094458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1563:SSL alert number 112
+https://natehn.com: Error: write EPROTO 140169673939904:error:14094458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1563:SSL alert number 112
 
-https://natehn.com/index.xml: Error: write EPROTO 140702747564992:error:14094458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1563:SSL alert number 112
+https://natehn.com/index.xml: Error: write EPROTO 140169673939904:error:14094458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1563:SSL alert number 112
 
 https://eric.jetzt: Error: getaddrinfo ENOTFOUND eric.jetzt
 https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
