@@ -18,8 +18,6 @@ https://t.seed.hex22.org/twtxt.txt: Error: Client network socket disconnected be
 https://letters.vexingworkshop.com: Error: getaddrinfo ENOTFOUND letters.vexingworkshop.com
 https://tom.so: Error: Request failed with status code 403
 http://www.miha-co.ca: Error: getaddrinfo ENOTFOUND www.miha-co.ca
-https://serocell.com: took longer then 30 sec to respond
-https://serocell.com/feeds/serocell.xml: took longer then 30 sec to respond
 https://lublin.se/twtxt.txt: Error: Request failed with status code 404
 https://eli.li: Error: Request failed with status code 403
 https://txt.eli.li/twtxt/twtxt.txt: Error: getaddrinfo ENOTFOUND txt.eli.li
@@ -47,7 +45,7 @@ https://solquemal.com/: Error: Request failed with status code 503
 https://travisshears.com/apps/twtxt/twtxt.txt: Error: Request failed with status code 404
 https://travisshears.com/index.xml: Error: Request failed with status code 404
 https://www.romainaubert.com/: Error: read ECONNRESET
-https://www.romainaubert.com/twtxt.txt: Error: read ECONNRESET
+https://www.romainaubert.com/twtxt.txt: Error: connect ECONNREFUSED 213.186.33.5:443
 https://www.romainaubert.com/feed.rss: Error: read ECONNRESET
 https://nor.the-rn.info: Error: Request failed with status code 403
 https://nor.the-rn.info/feed.xml: Error: Request failed with status code 403
@@ -63,12 +61,9 @@ https://0l.wtf: Error: getaddrinfo ENOTFOUND 0l.wtf
 https://0l.wtf/rss.xml: Error: getaddrinfo ENOTFOUND 0l.wtf
 https://0l.wtf/twtxt.txt: Error: getaddrinfo ENOTFOUND 0l.wtf
 https://hugo.soucy.cc/index.xml: Error: Request failed with status code 404
-https://darch.dk: took longer then 30 sec to respond
-https://darch.dk/twtxt.txt: took longer then 30 sec to respond
-https://darch.dk/feed/page:feed.xml: took longer then 30 sec to respond
-https://natehn.com: Error: write EPROTO 139774032120768:error:14094458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1563:SSL alert number 112
+https://natehn.com: Error: write EPROTO 140674486578112:error:14094458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1563:SSL alert number 112
 
-https://natehn.com/index.xml: Error: write EPROTO 139774032120768:error:14094458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1563:SSL alert number 112
+https://natehn.com/index.xml: Error: write EPROTO 140674486578112:error:14094458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1563:SSL alert number 112
 
 https://dom.ink/tw.txt: Error: Request failed with status code 404
 https://eric.jetzt: Error: getaddrinfo ENOTFOUND eric.jetzt
@@ -80,7 +75,5 @@ https://voidjumper.glass: took longer then 30 sec to respond
 https://dyslexic.ink: took longer then 30 sec to respond
 https://astrid.tech/tw.txt: Error: Request failed with status code 404
 https://astrid.tech/atom.xml: Error: Request failed with status code 404
-http://flower.codes: Error: Request failed with status code 404
-http://flower.codes/feed.xml: Error: Request failed with status code 404
 https://ryutaroikeda.ovh: Error: getaddrinfo ENOTFOUND ryutaroikeda.ovh
 https://ryutaroikeda.ovh/feed.rss: Error: getaddrinfo ENOTFOUND ryutaroikeda.ovh
