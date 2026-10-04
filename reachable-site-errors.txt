@@ -12,7 +12,7 @@ https://alex.zyzhang.me: Error: Request failed with status code 404
 https://underscorediscovery.ca: Error: getaddrinfo ENOTFOUND underscorediscovery.ca
 https://drisc.io/hallway/twtxt.txt: Error: Request failed with status code 404
 http://memoriata.com: Error: getaddrinfo EAI_AGAIN memoriata.com
-https://iko.soy: Error: socket hang up
+https://iko.soy: took longer then 30 sec to respond
 https://phse.net/twtxt/merv.txt: Error: Request failed with status code 404
 https://gndclouds.cc: Error: getaddrinfo ENOTFOUND gndclouds.cc
 https://t.seed.hex22.org/twtxt.txt: Error: Client network socket disconnected before secure TLS connection was established
@@ -46,32 +46,32 @@ https://www.materialfuture.net/rss.xml: Error: getaddrinfo ENOTFOUND www.materia
 https://solquemal.com/: Error: Request failed with status code 503
 https://travisshears.com/apps/twtxt/twtxt.txt: Error: Request failed with status code 404
 https://travisshears.com/index.xml: Error: Request failed with status code 404
-https://futuristan.io: took longer then 30 sec to respond
 https://www.romainaubert.com/: Error: read ECONNRESET
-https://www.romainaubert.com/twtxt.txt: Error: read ECONNRESET
-https://www.romainaubert.com/feed.rss: Error: read ECONNRESET
+https://www.romainaubert.com/twtxt.txt: Error: connect ECONNREFUSED 213.186.33.5:443
+https://www.romainaubert.com/feed.rss: Error: connect ECONNREFUSED 213.186.33.5:443
 https://nor.the-rn.info: Error: Request failed with status code 403
 https://nor.the-rn.info/feed.xml: Error: Request failed with status code 403
 https://fdisk.space/rss.xml: Error: Request failed with status code 403
 https://inqlab.net/posts.xml: Error: Request failed with status code 404
-https://milofultz.com/atom.xml: Error: Request failed with status code 404
+https://www.milofultz.com: Error: write EPROTO 140186813033408:error:14094438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1563:SSL alert number 80
+
+https://milofultz.com/atom.xml: Error: write EPROTO 140186813033408:error:14094438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1563:SSL alert number 80
+
 https://irimi.one/atom.xml: Error: Request failed with status code 500
-https://mineralexistence.com/: took longer then 30 sec to respond
-https://mineralexistence.com/tw.txt: took longer then 30 sec to respond
 https://weakty.com: Error: Request failed with status code 403
 https://0l.wtf: Error: getaddrinfo ENOTFOUND 0l.wtf
 https://0l.wtf/rss.xml: Error: getaddrinfo ENOTFOUND 0l.wtf
 https://0l.wtf/twtxt.txt: Error: getaddrinfo ENOTFOUND 0l.wtf
-https://everest-pipkin.com/: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: everest-pipkin.com. is not in the cert's altnames: DNS:*.neocities.org, DNS:neocities.org
 https://hugo.soucy.cc/index.xml: Error: Request failed with status code 404
-https://natehn.com: Error: write EPROTO 139923909344192:error:14094458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1563:SSL alert number 112
+https://darch.dk: Error: Request failed with status code 403
+https://darch.dk/twtxt.txt: Error: Request failed with status code 403
+https://darch.dk/feed/page:feed.xml: Error: Request failed with status code 403
+https://natehn.com: Error: write EPROTO 140186813033408:error:14094458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1563:SSL alert number 112
 
-https://natehn.com/index.xml: Error: write EPROTO 139923909344192:error:14094458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1563:SSL alert number 112
+https://natehn.com/index.xml: Error: write EPROTO 140186813033408:error:14094458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1563:SSL alert number 112
 
-https://dom.ink: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: dom.ink. is not in the cert's altnames: DNS:*.neocities.org, DNS:neocities.org
-https://dom.ink/tw.txt: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: dom.ink. is not in the cert's altnames: DNS:*.neocities.org, DNS:neocities.org
+https://dom.ink/tw.txt: Error: Request failed with status code 404
 https://eric.jetzt: Error: getaddrinfo ENOTFOUND eric.jetzt
-https://oppen.digital: took longer then 30 sec to respond
 https://itwont.work: Error: Request failed with status code 404
 https://itwont.work/atom.xml: Error: Request failed with status code 404
 https://wilde-at-heart.garden/txtwt.txt: Error: Request failed with status code 404
